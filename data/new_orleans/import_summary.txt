@@ -1,0 +1,6 @@
+New Orleans restaurants: 2259
+New Orleans restaurant reviews: 476421
+Distinct reviewed restaurants: 2259
+Distinct reviewers: 201798
+Missing latitude: 0
+Missing longitude: 0
