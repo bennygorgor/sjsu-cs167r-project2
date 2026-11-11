@@ -1,0 +1,4642 @@
+category.x,category.y,n
+food,restaurants,725
+nightlife,restaurants,540
+bars,nightlife,508
+bars,restaurants,508
+cajun/creole,restaurants,401
+breakfast & brunch,restaurants,367
+restaurants,sandwiches,354
+restaurants,seafood,331
+american (new),restaurants,323
+american (traditional),restaurants,299
+coffee & tea,food,208
+coffee & tea,restaurants,208
+burgers,restaurants,202
+cafes,restaurants,173
+pizza,restaurants,172
+breakfast & brunch,food,161
+bars,cocktail bars,160
+cocktail bars,nightlife,160
+cocktail bars,restaurants,160
+cajun/creole,seafood,156
+event planning & services,restaurants,156
+restaurants,southern,155
+food,sandwiches,150
+american (traditional),nightlife,147
+fast food,restaurants,142
+american (traditional),bars,140
+food,nightlife,133
+american (new),nightlife,130
+mexican,restaurants,124
+restaurants,salad,124
+american (new),bars,123
+bars,food,123
+italian,restaurants,121
+cajun/creole,nightlife,113
+chicken wings,restaurants,112
+food,specialty food,108
+restaurants,specialty food,108
+cafes,food,106
+bars,cajun/creole,103
+nightlife,seafood,88
+arts & entertainment,restaurants,86
+french,restaurants,86
+breakfast & brunch,coffee & tea,85
+breakfast & brunch,sandwiches,85
+american (traditional),food,84
+cajun/creole,food,84
+american (new),breakfast & brunch,83
+bars,seafood,82
+bakeries,food,81
+bakeries,restaurants,81
+food,seafood,81
+american (new),food,79
+american (new),american (traditional),75
+american (traditional),breakfast & brunch,75
+breakfast & brunch,nightlife,75
+cafes,coffee & tea,75
+arts & entertainment,nightlife,73
+desserts,food,73
+desserts,restaurants,73
+breakfast & brunch,cajun/creole,72
+cajun/creole,southern,72
+bars,breakfast & brunch,71
+restaurants,soul food,70
+restaurants,vegetarian,70
+chinese,restaurants,69
+american (new),cajun/creole,68
+restaurants,vegan,68
+beer,food,67
+beer,restaurants,67
+beer,wine & spirits,67
+caterers,event planning & services,67
+caterers,restaurants,67
+food,wine & spirits,67
+restaurants,wine & spirits,67
+american (traditional),cajun/creole,66
+breakfast & brunch,cafes,65
+delis,restaurants,64
+event planning & services,venues & event spaces,63
+restaurants,venues & event spaces,63
+food,food trucks,62
+food trucks,restaurants,62
+nightlife,sandwiches,62
+barbeque,restaurants,61
+bars,wine bars,61
+nightlife,wine bars,61
+restaurants,wine bars,61
+bars,sandwiches,60
+italian,pizza,60
+burgers,food,59
+burgers,nightlife,58
+mediterranean,restaurants,58
+american (traditional),burgers,57
+bars,lounges,57
+lounges,nightlife,57
+lounges,restaurants,57
+restaurants,vietnamese,57
+bars,burgers,56
+salad,sandwiches,56
+bars,sports bars,54
+japanese,restaurants,54
+nightlife,sports bars,54
+restaurants,sports bars,54
+american (traditional),seafood,53
+asian fusion,restaurants,53
+burgers,fast food,53
+nightlife,southern,52
+american (new),cocktail bars,51
+american (traditional),sandwiches,51
+arts & entertainment,bars,51
+cajun/creole,sandwiches,51
+latin american,restaurants,51
+bars,southern,50
+restaurants,sushi bars,50
+cocktail bars,food,49
+event planning & services,nightlife,49
+event planning & services,food,48
+food,juice bars & smoothies,48
+juice bars & smoothies,restaurants,48
+sandwiches,seafood,48
+food,salad,47
+pizza,sandwiches,47
+restaurants,tapas/small plates,47
+american (new),southern,46
+diners,restaurants,46
+local flavor,restaurants,46
+american (new),seafood,45
+cajun/creole,event planning & services,45
+coffee & tea,sandwiches,45
+nightlife,pizza,45
+seafood,southern,45
+arts & entertainment,music venues,44
+bars,event planning & services,44
+bars,pizza,44
+breakfast & brunch,southern,44
+music venues,nightlife,44
+music venues,restaurants,44
+delis,sandwiches,43
+fast food,food,41
+fast food,sandwiches,41
+middle eastern,restaurants,41
+beer,nightlife,40
+burgers,sandwiches,40
+delis,food,40
+food,pizza,40
+nightlife,wine & spirits,40
+bars,pubs,39
+cafes,sandwiches,39
+comfort food,restaurants,39
+nightlife,pubs,39
+pubs,restaurants,39
+bars,beer,38
+bars,wine & spirits,38
+hotels & travel,restaurants,38
+mexican,tacos,38
+restaurants,shopping,38
+restaurants,tacos,38
+american (new),sandwiches,37
+american (traditional),cocktail bars,37
+bakeries,coffee & tea,37
+breakfast & brunch,burgers,37
+restaurants,steakhouses,37
+caterers,food,36
+food,grocery,36
+grocery,restaurants,36
+nightlife,venues & event spaces,36
+chicken wings,fast food,35
+breakfast & brunch,seafood,34
+cajun/creole,cocktail bars,34
+caribbean,restaurants,34
+food,italian,34
+bars,venues & event spaces,33
+cafes,nightlife,33
+event planning & services,hotels & travel,33
+food,vegan,33
+bakeries,breakfast & brunch,32
+bars,mexican,32
+japanese,sushi bars,32
+mediterranean,middle eastern,32
+mexican,nightlife,32
+seafood,specialty food,32
+american (new),event planning & services,31
+gastropubs,restaurants,31
+italian,nightlife,31
+restaurants,soup,31
+sandwiches,specialty food,31
+arts & entertainment,food,30
+bars,italian,30
+cajun/creole,soul food,30
+cocktail bars,seafood,30
+food,food delivery services,30
+food,southern,30
+food delivery services,restaurants,30
+american (new),burgers,29
+arts & entertainment,jazz & blues,29
+bars,french,29
+bars,music venues,29
+breakfast & brunch,cocktail bars,29
+event planning & services,hotels,29
+french,nightlife,29
+gluten-free,restaurants,29
+hotels,hotels & travel,29
+hotels,restaurants,29
+jazz & blues,nightlife,29
+jazz & blues,restaurants,29
+bars,cafes,28
+bars,dive bars,28
+breakfast & brunch,salad,28
+cajun/creole,french,28
+dive bars,nightlife,28
+dive bars,restaurants,28
+american (traditional),sports bars,27
+event planning & services,seafood,27
+food,vegetarian,27
+american (new),cafes,26
+bagels,food,26
+bagels,restaurants,26
+bars,salad,26
+bars,tapas/small plates,26
+breakfast & brunch,event planning & services,26
+burgers,seafood,26
+donuts,food,26
+donuts,restaurants,26
+food,ice cream & frozen yogurt,26
+food,mexican,26
+gastropubs,nightlife,26
+ice cream & frozen yogurt,restaurants,26
+nightlife,salad,26
+nightlife,tapas/small plates,26
+american (traditional),arts & entertainment,25
+american (traditional),salad,25
+american (traditional),southern,25
+bars,gastropubs,25
+breakfast & brunch,diners,25
+chicken shop,restaurants,25
+convenience stores,food,25
+convenience stores,restaurants,25
+restaurants,thai,25
+american (new),french,24
+breakfast & brunch,french,24
+american (new),wine bars,23
+american (traditional),cafes,23
+american (traditional),event planning & services,23
+food,vietnamese,23
+hot dogs,restaurants,23
+cajun/creole,chicken wings,22
+food,local flavor,22
+food,seafood markets,22
+food stands,restaurants,22
+italian,sandwiches,22
+restaurants,seafood markets,22
+salad,seafood,22
+seafood markets,specialty food,22
+arts & entertainment,cajun/creole,21
+cajun/creole,specialty food,21
+cocktail bars,southern,21
+event planning & services,sandwiches,21
+food,shopping,21
+restaurants,tex-mex,21
+seafood,seafood markets,21
+vegan,vegetarian,21
+american (new),arts & entertainment,20
+american (traditional),chicken wings,20
+burgers,coffee & tea,20
+chicken wings,pizza,20
+cocktail bars,lounges,20
+coffee & tea,juice bars & smoothies,20
+event planning & services,party & event planning,20
+local flavor,nightlife,20
+party & event planning,restaurants,20
+seafood,soul food,20
+american (new),salad,19
+burgers,cajun/creole,19
+cajun/creole,venues & event spaces,19
+chicken wings,sandwiches,19
+desserts,sandwiches,19
+latin american,mexican,19
+soul food,southern,19
+american (new),lounges,18
+american (traditional),diners,18
+arts & entertainment,cocktail bars,18
+bakeries,sandwiches,18
+bars,jazz & blues,18
+cajun/creole,caterers,18
+cajun/creole,salad,18
+chicken wings,food,18
+chicken wings,seafood,18
+cocktail bars,sandwiches,18
+coffee & tea,nightlife,18
+italian,seafood,18
+mexican,tex-mex,18
+restaurants,spanish,18
+restaurants,tapas bars,18
+american (new),diners,17
+american (new),venues & event spaces,17
+american (traditional),beer,17
+american (traditional),wine & spirits,17
+arts & entertainment,event planning & services,17
+barbeque,food,17
+barbeque,nightlife,17
+bars,local flavor,17
+bars,steakhouses,17
+beer,sandwiches,17
+breakfast & brunch,juice bars & smoothies,17
+cocktail bars,event planning & services,17
+cocktail bars,tapas/small plates,17
+ethnic food,food,17
+ethnic food,restaurants,17
+ethnic food,specialty food,17
+food,food stands,17
+food,wine bars,17
+nightlife,steakhouses,17
+pizza,salad,17
+pop-up restaurants,restaurants,17
+sandwiches,wine & spirits,17
+seafood,steakhouses,17
+american (new),gastropubs,16
+american (traditional),coffee & tea,16
+asian fusion,bars,16
+asian fusion,nightlife,16
+bakeries,cafes,16
+barbeque,bars,16
+bars,beer bar,16
+bars,chicken wings,16
+beer bar,nightlife,16
+beer bar,restaurants,16
+breakfast & brunch,desserts,16
+breakfast & brunch,specialty food,16
+cafes,cajun/creole,16
+cafes,event planning & services,16
+caterers,seafood,16
+chicken shop,chicken wings,16
+chicken wings,nightlife,16
+cocktail bars,wine bars,16
+coffee & tea,desserts,16
+food,french,16
+food,latin american,16
+food,street vendors,16
+french,seafood,16
+greek,restaurants,16
+restaurants,street vendors,16
+salad,soup,16
+sandwiches,southern,16
+american (traditional),lounges,15
+american (traditional),pubs,15
+bagels,breakfast & brunch,15
+bars,coffee & tea,15
+breakfast & brunch,caterers,15
+cajun/creole,wine bars,15
+caterers,sandwiches,15
+cocktail bars,mexican,15
+cocktail bars,pizza,15
+delis,grocery,15
+event planning & services,southern,15
+event planning & services,specialty food,15
+food court,restaurants,15
+noodles,restaurants,15
+american (new),desserts,14
+american (new),music venues,14
+american (traditional),fast food,14
+american (traditional),music venues,14
+bagels,coffee & tea,14
+bakeries,desserts,14
+bars,desserts,14
+bars,tacos,14
+breakfast & brunch,delis,14
+breakfast & brunch,fast food,14
+burgers,salad,14
+cafes,juice bars & smoothies,14
+cafes,salad,14
+cajun/creole,mexican,14
+cocktail bars,venues & event spaces,14
+coffee & tea,fast food,14
+comfort food,food,14
+desserts,nightlife,14
+food,lounges,14
+food,meat shops,14
+indian,restaurants,14
+meat shops,restaurants,14
+meat shops,specialty food,14
+nightlife,tacos,14
+active life,restaurants,13
+american (new),coffee & tea,13
+american (traditional),french,13
+american (traditional),specialty food,13
+american (traditional),venues & event spaces,13
+asian fusion,food,13
+breakfast & brunch,comfort food,13
+cafes,cocktail bars,13
+cajun/creole,comfort food,13
+cajun/creole,italian,13
+chicken wings,soul food,13
+chinese,seafood,13
+cocktail bars,gastropubs,13
+cuban,restaurants,13
+diners,nightlife,13
+food,gluten-free,13
+food,pubs,13
+food,soul food,13
+food,tacos,13
+food,tapas/small plates,13
+grocery,sandwiches,13
+jazz & blues,music venues,13
+arts & entertainment,breakfast & brunch,12
+arts & entertainment,venues & event spaces,12
+bars,diners,12
+bars,mediterranean,12
+burgers,hot dogs,12
+burgers,sports bars,12
+cajun/creole,lounges,12
+caterers,food trucks,12
+caterers,specialty food,12
+cocktail bars,salad,12
+desserts,seafood,12
+event planning & services,food trucks,12
+event planning & services,french,12
+event planning & services,lounges,12
+food,sports bars,12
+food delivery services,pizza,12
+gluten-free,vegan,12
+gluten-free,vegetarian,12
+greek,mediterranean,12
+mediterranean,nightlife,12
+party & event planning,venues & event spaces,12
+restaurants,waffles,12
+salad,southern,12
+sandwiches,soup,12
+american (new),asian fusion,11
+american (new),beer,11
+american (new),caterers,11
+american (new),specialty food,11
+american (new),tapas/small plates,11
+american (new),wine & spirits,11
+american (traditional),desserts,11
+american (traditional),italian,11
+american (traditional),wine bars,11
+arts & entertainment,lounges,11
+asian fusion,japanese,11
+asian fusion,sushi bars,11
+bagels,sandwiches,11
+bars,specialty food,11
+beer,breakfast & brunch,11
+beer,cocktail bars,11
+breakfast & brunch,donuts,11
+breakfast & brunch,mexican,11
+breakfast & brunch,vegan,11
+breakfast & brunch,vegetarian,11
+breakfast & brunch,wine & spirits,11
+cafes,southern,11
+cajun/creole,coffee & tea,11
+cajun/creole,jazz & blues,11
+chicken shop,fast food,11
+cocktail bars,wine & spirits,11
+coffee & tea,donuts,11
+coffee & tea,salad,11
+comfort food,sandwiches,11
+convenience stores,grocery,11
+creperies,restaurants,11
+delis,specialty food,11
+event planning & services,salad,11
+food,mediterranean,11
+food,music venues,11
+food,soup,11
+food trucks,mexican,11
+french,southern,11
+greek,middle eastern,11
+halal,restaurants,11
+japanese,ramen,11
+juice bars & smoothies,vegan,11
+nightlife,specialty food,11
+ramen,restaurants,11
+sandwiches,vegetarian,11
+american (new),italian,10
+american (new),vegetarian,10
+american (traditional),barbeque,10
+arts & entertainment,local flavor,10
+asian fusion,chinese,10
+barbeque,sandwiches,10
+barbeque,southern,10
+bars,tapas bars,10
+bars,vegetarian,10
+beer,burgers,10
+beer,specialty food,10
+burgers,chicken wings,10
+burgers,diners,10
+burgers,wine & spirits,10
+cajun/creole,hotels & travel,10
+cajun/creole,local flavor,10
+chicken wings,southern,10
+chinese,food,10
+cocktail bars,coffee & tea,10
+cocktail bars,music venues,10
+coffee & tea,ice cream & frozen yogurt,10
+coffee & tea,specialty food,10
+comfort food,southern,10
+fast food,specialty food,10
+food,middle eastern,10
+halal,mediterranean,10
+halal,middle eastern,10
+hotels & travel,venues & event spaces,10
+italian,wine bars,10
+juice bars & smoothies,sandwiches,10
+nightlife,soul food,10
+nightlife,sushi bars,10
+nightlife,tapas bars,10
+nightlife,vegetarian,10
+salad,vegan,10
+seafood,sports bars,10
+specialty food,wine & spirits,10
+american (new),jazz & blues,9
+american (new),local flavor,9
+american (new),vegan,9
+american (traditional),comfort food,9
+american (traditional),gastropubs,9
+american (traditional),pizza,9
+arts & entertainment,southern,9
+asian fusion,cocktail bars,9
+bagels,bakeries,9
+barbeque,burgers,9
+barbeque,cajun/creole,9
+bars,caribbean,9
+bars,soul food,9
+bars,sushi bars,9
+beer,pizza,9
+brasseries,restaurants,9
+breakfast & brunch,waffles,9
+buffets,restaurants,9
+burgers,pizza,9
+cafes,desserts,9
+cafes,specialty food,9
+cafes,vegan,9
+cajun/creole,desserts,9
+cajun/creole,music venues,9
+cajun/creole,party & event planning,9
+cajun/creole,seafood markets,9
+cajun/creole,sports bars,9
+caribbean,latin american,9
+caribbean,nightlife,9
+caterers,venues & event spaces,9
+chinese,vietnamese,9
+cocktail bars,desserts,9
+coffee & tea,coffee roasteries,9
+coffee & tea,vegan,9
+coffee roasteries,food,9
+coffee roasteries,restaurants,9
+convenience stores,delis,9
+delis,event planning & services,9
+desserts,ice cream & frozen yogurt,9
+fast food,mexican,9
+food,jazz & blues,9
+food,poke,9
+food,venues & event spaces,9
+food stands,food trucks,9
+food trucks,street vendors,9
+hawaiian,restaurants,9
+hotels,venues & event spaces,9
+hotels & travel,nightlife,9
+italian,salad,9
+lebanese,middle eastern,9
+lebanese,restaurants,9
+lounges,venues & event spaces,9
+mediterranean,sandwiches,9
+mediterranean,vegetarian,9
+modern european,restaurants,9
+pizza,sports bars,9
+pizza,wine & spirits,9
+poke,restaurants,9
+salad,vegetarian,9
+sandwiches,sports bars,9
+sandwiches,vietnamese,9
+seafood,vegetarian,9
+seafood,venues & event spaces,9
+tacos,tex-mex,9
+american (new),comfort food,8
+american (new),pizza,8
+american (new),steakhouses,8
+american (traditional),steakhouses,8
+arts & entertainment,beer,8
+arts & entertainment,sandwiches,8
+arts & entertainment,wine & spirits,8
+bakeries,specialty food,8
+barbeque,caterers,8
+barbeque,event planning & services,8
+bars,caterers,8
+bars,food delivery services,8
+bars,japanese,8
+bars,latin american,8
+bars,vegan,8
+beer,delis,8
+beer,desserts,8
+beer,italian,8
+beer,salad,8
+beer,seafood,8
+breakfast & brunch,pizza,8
+breakfast & brunch,wine bars,8
+breweries,food,8
+breweries,restaurants,8
+cafes,vegetarian,8
+cafes,venues & event spaces,8
+cajun/creole,chicken shop,8
+cajun/creole,diners,8
+cajun/creole,pubs,8
+cajun/creole,steakhouses,8
+caterers,nightlife,8
+cheese shops,food,8
+cheese shops,restaurants,8
+cheese shops,specialty food,8
+cheesesteaks,restaurants,8
+chicken wings,italian,8
+cocktail bars,italian,8
+comfort food,seafood,8
+creperies,food,8
+delis,salad,8
+delis,wine & spirits,8
+desserts,salad,8
+desserts,wine & spirits,8
+dive bars,sports bars,8
+event planning & services,jazz & blues,8
+fast food,hot dogs,8
+fast food,seafood,8
+food,hawaiian,8
+food,japanese,8
+food,sushi bars,8
+food delivery services,nightlife,8
+hawaiian,poke,8
+hotels,nightlife,8
+italian,wine & spirits,8
+japanese,nightlife,8
+juice bars & smoothies,salad,8
+juice bars & smoothies,vegetarian,8
+latin american,nightlife,8
+latin american,spanish,8
+lebanese,mediterranean,8
+lounges,music venues,8
+mexican,seafood,8
+nightlife,shopping,8
+nightlife,vegan,8
+restaurants,wraps,8
+salad,wine & spirits,8
+salad,wine bars,8
+sandwiches,vegan,8
+seafood,soup,8
+seafood,wine & spirits,8
+american (new),juice bars & smoothies,7
+american (new),mexican,7
+american (new),pubs,7
+american (new),sports bars,7
+american (traditional),caterers,7
+american (traditional),delis,7
+american (traditional),jazz & blues,7
+american (traditional),soul food,7
+american (traditional),tapas/small plates,7
+american (traditional),vegetarian,7
+arts & entertainment,burgers,7
+arts & entertainment,cafes,7
+asian fusion,seafood,7
+asian fusion,vietnamese,7
+bars,dance clubs,7
+bars,hookah bars,7
+bars,hotels & travel,7
+bars,shopping,7
+beer,cajun/creole,7
+beer,wine bars,7
+brasseries,french,7
+breakfast & brunch,grocery,7
+breakfast & brunch,italian,7
+breakfast & brunch,latin american,7
+breakfast & brunch,tapas/small plates,7
+breakfast & brunch,venues & event spaces,7
+burgers,cafes,7
+burgers,dive bars,7
+burgers,event planning & services,7
+burgers,food trucks,7
+burgers,lounges,7
+burgers,southern,7
+butcher,food,7
+butcher,restaurants,7
+cajun/creole,food trucks,7
+cajun/creole,hotels,7
+cajun/creole,tapas/small plates,7
+cajun/creole,wine & spirits,7
+caribbean,food,7
+caterers,delis,7
+caterers,food delivery services,7
+caterers,salad,7
+caterers,southern,7
+chicken shop,soul food,7
+chicken shop,southern,7
+chicken wings,sports bars,7
+cocktail bars,french,7
+cocktail bars,jazz & blues,7
+cocktail bars,tacos,7
+coffee & tea,shopping,7
+convenience stores,sandwiches,7
+dance clubs,nightlife,7
+dance clubs,restaurants,7
+desserts,italian,7
+diners,sandwiches,7
+event planning & services,food delivery services,7
+event planning & services,music venues,7
+fast food,pizza,7
+fast food,tacos,7
+filipino,restaurants,7
+fish & chips,restaurants,7
+food,food court,7
+food,fruits & veggies,7
+food,gastropubs,7
+food,hot dogs,7
+food,shaved ice,7
+french,venues & event spaces,7
+french,wine bars,7
+fruits & veggies,restaurants,7
+fruits & veggies,sandwiches,7
+fruits & veggies,specialty food,7
+gluten-free,pizza,7
+hookah bars,nightlife,7
+hookah bars,restaurants,7
+italian,specialty food,7
+japanese,noodles,7
+live/raw food,restaurants,7
+local flavor,seafood,7
+local flavor,specialty food,7
+lounges,seafood,7
+lounges,wine bars,7
+meat shops,sandwiches,7
+music venues,venues & event spaces,7
+restaurants,shaved ice,7
+seafood,sushi bars,7
+seafood,wine bars,7
+southern,sports bars,7
+tapas/small plates,wine bars,7
+wine & spirits,wine bars,7
+american (new),chicken wings,6
+american (new),modern european,6
+american (new),soul food,6
+american (traditional),caribbean,6
+american (traditional),dive bars,6
+american (traditional),local flavor,6
+american (traditional),soup,6
+arts & entertainment,coffee & tea,6
+arts & entertainment,dive bars,6
+arts & entertainment,seafood,6
+arts & entertainment,shopping,6
+arts & entertainment,sports bars,6
+asian fusion,vegetarian,6
+barbeque,chicken wings,6
+bars,brasseries,6
+bars,hotels,6
+bars,party & event planning,6
+beer,grocery,6
+beer,sports bars,6
+brasseries,nightlife,6
+brazilian,restaurants,6
+breakfast & brunch,chicken shop,6
+breakfast & brunch,chicken wings,6
+breakfast & brunch,gluten-free,6
+breakfast & brunch,ice cream & frozen yogurt,6
+breakfast & brunch,lounges,6
+breakfast & brunch,sports bars,6
+bubble tea,food,6
+bubble tea,restaurants,6
+burgers,cocktail bars,6
+burgers,pubs,6
+cafes,caterers,6
+cafes,chicken wings,6
+cafes,coffee roasteries,6
+cafes,creperies,6
+cafes,french,6
+cafeteria,restaurants,6
+cajun/creole,caribbean,6
+cajun/creole,chinese,6
+cajun/creole,delis,6
+cajun/creole,grocery,6
+cajun/creole,latin american,6
+caterers,food stands,6
+chinese,noodles,6
+cocktail bars,dive bars,6
+cocktail bars,local flavor,6
+cocktail bars,vegetarian,6
+coffee & tea,vegetarian,6
+comfort food,nightlife,6
+cuban,latin american,6
+delis,fast food,6
+desserts,specialty food,6
+diners,food,6
+dive bars,pubs,6
+dive bars,sandwiches,6
+event planning & services,food stands,6
+event planning & services,italian,6
+event planning & services,mexican,6
+event planning & services,personal chefs,6
+event planning & services,pubs,6
+event planning & services,shopping,6
+falafel,mediterranean,6
+falafel,middle eastern,6
+falafel,restaurants,6
+fast food,fruits & veggies,6
+food,gelato,6
+food,internet cafes,6
+food,party & event planning,6
+food,tex-mex,6
+food delivery services,italian,6
+food delivery services,sandwiches,6
+food trucks,sandwiches,6
+french,salad,6
+gelato,restaurants,6
+gluten-free,salad,6
+greek,lebanese,6
+grocery,wine & spirits,6
+hotels & travel,tours,6
+ice cream & frozen yogurt,sandwiches,6
+internet cafes,restaurants,6
+italian,southern,6
+korean,restaurants,6
+latin american,seafood,6
+local flavor,sandwiches,6
+lounges,tapas/small plates,6
+middle eastern,sandwiches,6
+new mexican cuisine,restaurants,6
+nightlife,party & event planning,6
+personal chefs,restaurants,6
+pizza,vegan,6
+pizza,vegetarian,6
+pubs,sandwiches,6
+pubs,sports bars,6
+restaurants,tours,6
+restaurants,turkish,6
+salad,specialty food,6
+sandwiches,shopping,6
+seafood,tapas/small plates,6
+shopping,specialty food,6
+southern,wine bars,6
+sports bars,wine & spirits,6
+active life,arts & entertainment,5
+african,restaurants,5
+american (new),brasseries,5
+american (new),gluten-free,5
+american (new),hot dogs,5
+american (traditional),asian fusion,5
+american (traditional),bakeries,5
+american (traditional),dance clubs,5
+american (traditional),food delivery services,5
+american (traditional),juice bars & smoothies,5
+american (traditional),meat shops,5
+american (traditional),vegan,5
+art galleries,arts & entertainment,5
+art galleries,restaurants,5
+art galleries,shopping,5
+arts & entertainment,festivals,5
+arts & entertainment,hotels & travel,5
+arts & entertainment,pubs,5
+arts & entertainment,tapas/small plates,5
+arts & entertainment,wine bars,5
+arts & entertainment,wineries,5
+asian fusion,breakfast & brunch,5
+asian fusion,cajun/creole,5
+asian fusion,noodles,5
+bagels,cafes,5
+bakeries,donuts,5
+barbeque,food trucks,5
+barbeque,salad,5
+barbeque,seafood,5
+bars,comfort food,5
+bars,food court,5
+bars,irish,5
+bars,juice bars & smoothies,5
+bars,middle eastern,5
+bars,pop-up restaurants,5
+bars,tiki bars,5
+beer,convenience stores,5
+beer,lounges,5
+beer,music venues,5
+beer,pubs,5
+beer,tapas/small plates,5
+beer bar,sandwiches,5
+beer gardens,nightlife,5
+beer gardens,restaurants,5
+breakfast & brunch,gastropubs,5
+breakfast & brunch,music venues,5
+breakfast & brunch,soup,5
+breakfast & brunch,tacos,5
+breakfast & brunch,tex-mex,5
+burgers,donuts,5
+burgers,music venues,5
+butcher,meat shops,5
+butcher,sandwiches,5
+butcher,specialty food,5
+cafes,delis,5
+cafes,diners,5
+cafes,donuts,5
+cafes,internet cafes,5
+cafes,seafood,5
+cafes,shopping,5
+cafes,sports bars,5
+cajun/creole,food delivery services,5
+cajun/creole,shopping,5
+cajun/creole,tacos,5
+caribbean,mexican,5
+caribbean,seafood,5
+caterers,seafood markets,5
+cheese shops,delis,5
+cheese shops,sandwiches,5
+cheesesteaks,sandwiches,5
+chicken shop,food,5
+chicken wings,salad,5
+cocktail bars,tiki bars,5
+coffee & tea,delis,5
+coffee & tea,internet cafes,5
+convenience stores,wine & spirits,5
+delis,seafood,5
+desserts,event planning & services,5
+dive bars,music venues,5
+dive bars,pizza,5
+donuts,sandwiches,5
+event planning & services,latin american,5
+event planning & services,local flavor,5
+event planning & services,pizza,5
+event planning & services,seafood markets,5
+event planning & services,soul food,5
+event planning & services,tapas/small plates,5
+farmers market,food,5
+farmers market,restaurants,5
+fast food,italian,5
+fast food,tex-mex,5
+festivals,restaurants,5
+food,health markets,5
+food,modern european,5
+food,patisserie/cake shop,5
+food,steakhouses,5
+food,tea rooms,5
+food,waffles,5
+food,wineries,5
+food court,nightlife,5
+food delivery services,southern,5
+food delivery services,specialty food,5
+food stands,mexican,5
+food trucks,vegan,5
+french,lounges,5
+gluten-free,juice bars & smoothies,5
+health markets,restaurants,5
+health markets,specialty food,5
+irish,nightlife,5
+irish,restaurants,5
+japanese,poke,5
+japanese,seafood,5
+juice bars & smoothies,nightlife,5
+karaoke,nightlife,5
+karaoke,restaurants,5
+latin american,vegetarian,5
+live/raw food,seafood,5
+local flavor,pizza,5
+local flavor,southern,5
+lounges,wine & spirits,5
+mediterranean,salad,5
+mediterranean,vegan,5
+mexican,vegetarian,5
+middle eastern,nightlife,5
+music venues,sandwiches,5
+music venues,sports bars,5
+music venues,wine & spirits,5
+nightlife,pop-up restaurants,5
+nightlife,tiki bars,5
+patisserie/cake shop,restaurants,5
+peruvian,restaurants,5
+pizza,seafood,5
+pubs,venues & event spaces,5
+pubs,wine & spirits,5
+restaurants,tea rooms,5
+restaurants,tiki bars,5
+restaurants,wineries,5
+sandwiches,venues & event spaces,5
+sandwiches,wraps,5
+seafood,tacos,5
+southern,specialty food,5
+steakhouses,wine bars,5
+tapas bars,wine bars,5
+tapas/small plates,wine & spirits,5
+active life,bars,4
+active life,nightlife,4
+american (new),bakeries,4
+american (new),barbeque,4
+american (new),caribbean,4
+american (new),delis,4
+american (new),dive bars,4
+american (new),fast food,4
+american (new),hotels,4
+american (new),hotels & travel,4
+american (new),latin american,4
+american (new),mediterranean,4
+american (new),party & event planning,4
+american (new),shopping,4
+american (new),street vendors,4
+american (new),sushi bars,4
+american (new),tapas bars,4
+american (traditional),beer bar,4
+american (traditional),breweries,4
+american (traditional),donuts,4
+american (traditional),hot dogs,4
+american (traditional),hotels,4
+american (traditional),hotels & travel,4
+american (traditional),mexican,4
+american (traditional),tacos,4
+american (traditional),tapas bars,4
+american (traditional),waffles,4
+arcades,arts & entertainment,4
+arcades,restaurants,4
+art galleries,nightlife,4
+arts & entertainment,chicken wings,4
+arts & entertainment,gastropubs,4
+arts & entertainment,hotels,4
+arts & entertainment,italian,4
+arts & entertainment,pizza,4
+arts & entertainment,soul food,4
+arts & entertainment,vegetarian,4
+asian fusion,indian,4
+asian fusion,specialty food,4
+asian fusion,thai,4
+asian fusion,vegan,4
+automotive,food,4
+automotive,gas stations,4
+automotive,restaurants,4
+bagels,desserts,4
+bakeries,cajun/creole,4
+bakeries,event planning & services,4
+bakeries,ice cream & frozen yogurt,4
+bakeries,patisserie/cake shop,4
+bakeries,salad,4
+barbeque,sports bars,4
+bars,beer gardens,4
+bars,breweries,4
+bars,champagne bars,4
+bars,creperies,4
+bars,delis,4
+bars,gluten-free,4
+bars,modern european,4
+bars,pool halls,4
+bars,tex-mex,4
+bars,vietnamese,4
+bars,whiskey bars,4
+bars,wineries,4
+beer bar,seafood,4
+beer bar,wine bars,4
+brasseries,breakfast & brunch,4
+brasseries,cajun/creole,4
+breakfast & brunch,coffee roasteries,4
+breakfast & brunch,creperies,4
+breakfast & brunch,food delivery services,4
+breakfast & brunch,hot dogs,4
+breakfast & brunch,jazz & blues,4
+breakfast & brunch,modern european,4
+breakfast & brunch,soul food,4
+breweries,nightlife,4
+burgers,caterers,4
+burgers,italian,4
+burgers,steakhouses,4
+cafes,comfort food,4
+cafes,food trucks,4
+cafes,ice cream & frozen yogurt,4
+cafes,music venues,4
+cafes,pizza,4
+cafes,vietnamese,4
+cajun/creole,donuts,4
+cajun/creole,fast food,4
+cajun/creole,live/raw food,4
+candy stores,food,4
+candy stores,restaurants,4
+candy stores,specialty food,4
+caribbean,cuban,4
+caribbean,event planning & services,4
+caribbean,vegan,4
+caterers,coffee & tea,4
+caterers,desserts,4
+caterers,personal chefs,4
+caterers,pizza,4
+caterers,soul food,4
+caterers,street vendors,4
+champagne bars,nightlife,4
+champagne bars,restaurants,4
+cheesesteaks,food,4
+chicken shop,sandwiches,4
+chicken wings,chinese,4
+chicken wings,event planning & services,4
+chicken wings,food trucks,4
+chinese,dim sum,4
+chinese,soup,4
+chocolatiers & shops,food,4
+chocolatiers & shops,restaurants,4
+chocolatiers & shops,specialty food,4
+cocktail bars,juice bars & smoothies,4
+cocktail bars,shopping,4
+cocktail bars,specialty food,4
+cocktail bars,sports bars,4
+cocktail bars,tapas bars,4
+coffee & tea,creperies,4
+coffee & tea,event planning & services,4
+coffee & tea,gluten-free,4
+coffee & tea,italian,4
+coffee & tea,seafood,4
+coffee & tea,southern,4
+coffee & tea,tea rooms,4
+coffee & tea,vietnamese,4
+comfort food,event planning & services,4
+comfort food,soul food,4
+comfort food,vegan,4
+convenience stores,shopping,4
+convenience stores,vietnamese,4
+creperies,nightlife,4
+delis,desserts,4
+delis,meat shops,4
+delis,nightlife,4
+delis,shopping,4
+desserts,french,4
+desserts,pizza,4
+desserts,southern,4
+desserts,tapas/small plates,4
+desserts,vegetarian,4
+dim sum,restaurants,4
+diners,seafood,4
+dive bars,food,4
+education,restaurants,4
+education,specialty schools,4
+empanadas,food,4
+empanadas,latin american,4
+empanadas,restaurants,4
+ethnic food,imported food,4
+event planning & services,gastropubs,4
+event planning & services,grocery,4
+event planning & services,street vendors,4
+event planning & services,vegetarian,4
+event planning & services,wedding planning,4
+event planning & services,wine bars,4
+farmers market,specialty food,4
+fast food,salad,4
+filipino,food,4
+fish & chips,seafood,4
+food,gas stations,4
+food,imported food,4
+food,pop-up restaurants,4
+food,tapas bars,4
+food delivery services,salad,4
+food stands,ice cream & frozen yogurt,4
+food stands,local flavor,4
+food stands,street vendors,4
+food trucks,latin american,4
+food trucks,seafood,4
+food trucks,specialty food,4
+french,modern european,4
+french,specialty food,4
+french,tapas/small plates,4
+gas stations,restaurants,4
+gastropubs,seafood,4
+gastropubs,sports bars,4
+gastropubs,venues & event spaces,4
+gastropubs,wine bars,4
+gluten-free,italian,4
+gluten-free,nightlife,4
+gluten-free,specialty food,4
+greek,sandwiches,4
+grocery,specialty food,4
+hawaiian,japanese,4
+hawaiian,sushi bars,4
+hookah bars,mediterranean,4
+hookah bars,middle eastern,4
+ice cream & frozen yogurt,juice bars & smoothies,4
+ice cream & frozen yogurt,vegan,4
+imported food,restaurants,4
+imported food,specialty food,4
+indian,pakistani,4
+italian,steakhouses,4
+italian,vegan,4
+italian,vegetarian,4
+jazz & blues,local flavor,4
+jazz & blues,lounges,4
+jazz & blues,venues & event spaces,4
+juice bars & smoothies,specialty food,4
+kebab,mediterranean,4
+kebab,middle eastern,4
+kebab,restaurants,4
+kosher,restaurants,4
+latin american,venezuelan,4
+local flavor,music venues,4
+local flavor,venues & event spaces,4
+lounges,pizza,4
+lounges,southern,4
+lounges,sports bars,4
+mediterranean,turkish,4
+mexican,new mexican cuisine,4
+mexican,salad,4
+mexican,spanish,4
+middle eastern,vegetarian,4
+modern european,nightlife,4
+music venues,pubs,4
+music venues,seafood,4
+music venues,southern,4
+nightlife,pool halls,4
+nightlife,tex-mex,4
+nightlife,vietnamese,4
+nightlife,whiskey bars,4
+nightlife,wineries,4
+noodles,vietnamese,4
+pakistani,restaurants,4
+pizza,southern,4
+pizza,wine bars,4
+poke,sushi bars,4
+pool halls,restaurants,4
+restaurants,specialty schools,4
+restaurants,venezuelan,4
+restaurants,wedding planning,4
+restaurants,whiskey bars,4
+salad,vietnamese,4
+sandwiches,seafood markets,4
+sandwiches,soul food,4
+sandwiches,wine bars,4
+seafood,shopping,4
+soup,vegetarian,4
+soup,vietnamese,4
+southern,venues & event spaces,4
+spanish,tapas/small plates,4
+specialty food,vegan,4
+tapas bars,tapas/small plates,4
+acai bowls,food,3
+acai bowls,juice bars & smoothies,3
+acai bowls,restaurants,3
+acai bowls,vegan,3
+active life,event planning & services,3
+active life,fitness & instruction,3
+active life,food,3
+african,vegetarian,3
+american (new),chicken shop,3
+american (new),chinese,3
+american (new),food court,3
+american (new),food trucks,3
+american (new),soup,3
+american (new),tacos,3
+american (new),waffles,3
+american (traditional),chinese,3
+american (traditional),grocery,3
+american (traditional),party & event planning,3
+american (traditional),vietnamese,3
+arcades,bars,3
+arcades,nightlife,3
+art galleries,bars,3
+art galleries,cocktail bars,3
+arts & entertainment,mexican,3
+asian fusion,ethnic food,3
+asian fusion,fast food,3
+asian fusion,gastropubs,3
+asian fusion,pizza,3
+asian fusion,salad,3
+asian fusion,sandwiches,3
+asian fusion,wine bars,3
+automotive,convenience stores,3
+bagels,delis,3
+bagels,grocery,3
+bagels,pizza,3
+bakeries,beer,3
+bakeries,caterers,3
+bakeries,chocolatiers & shops,3
+bakeries,comfort food,3
+bakeries,juice bars & smoothies,3
+bakeries,nightlife,3
+bakeries,vegan,3
+bakeries,vietnamese,3
+bakeries,wine & spirits,3
+barbeque,cafes,3
+barbeque,cocktail bars,3
+barbeque,desserts,3
+barbeque,local flavor,3
+barbeque,soul food,3
+barbeque,specialty food,3
+bars,bubble tea,3
+bars,cuban,3
+bars,gay bars,3
+bars,irish pub,3
+bars,karaoke,3
+bars,new mexican cuisine,3
+bars,soup,3
+bars,thai,3
+basque,restaurants,3
+basque,spanish,3
+beer,caterers,3
+beer,comfort food,3
+beer,dive bars,3
+beer,event planning & services,3
+beer,food delivery services,3
+beer,jazz & blues,3
+beer,shopping,3
+beer,tapas bars,3
+beer bar,cocktail bars,3
+beer bar,food,3
+beer bar,lounges,3
+beer bar,mexican,3
+beer bar,salad,3
+beer bar,tacos,3
+boat charters,event planning & services,3
+boat charters,hotels & travel,3
+boat charters,restaurants,3
+brasseries,seafood,3
+brazilian,food,3
+breakfast & brunch,ethnic food,3
+breakfast & brunch,hotels,3
+breakfast & brunch,hotels & travel,3
+breakfast & brunch,local flavor,3
+breakfast & brunch,meat shops,3
+breakfast & brunch,mediterranean,3
+breakfast & brunch,party & event planning,3
+breakfast & brunch,shopping,3
+breakfast & brunch,tapas bars,3
+breakfast & brunch,vietnamese,3
+breakfast & brunch,wraps,3
+breweries,brewpubs,3
+breweries,pubs,3
+brewpubs,food,3
+brewpubs,restaurants,3
+bubble tea,nightlife,3
+bubble tea,vietnamese,3
+burgers,fish & chips,3
+burgers,food stands,3
+burgers,mexican,3
+burgers,street vendors,3
+burgers,tacos,3
+burgers,venues & event spaces,3
+burgers,wraps,3
+cafes,gluten-free,3
+cafes,italian,3
+cafes,lounges,3
+cafes,party & event planning,3
+cafes,wine bars,3
+cajun/creole,dance clubs,3
+cajun/creole,ethnic food,3
+cajun/creole,hot dogs,3
+cajun/creole,juice bars & smoothies,3
+cajun/creole,soup,3
+cajun/creole,spanish,3
+cajun/creole,vegetarian,3
+caribbean,cocktail bars,3
+caribbean,soul food,3
+caribbean,tacos,3
+caribbean,tapas/small plates,3
+caribbean,trinidadian,3
+caribbean,vegetarian,3
+caterers,chicken wings,3
+caterers,chinese,3
+caterers,fast food,3
+caterers,french,3
+caterers,italian,3
+caterers,latin american,3
+caterers,mexican,3
+caterers,party & event planning,3
+caterers,tapas/small plates,3
+caterers,wine & spirits,3
+champagne bars,lounges,3
+champagne bars,wine bars,3
+chicken shop,seafood,3
+chicken wings,cocktail bars,3
+chinese,event planning & services,3
+chinese,fast food,3
+chinese,thai,3
+chocolatiers & shops,coffee & tea,3
+cocktail bars,comfort food,3
+cocktail bars,diners,3
+cocktail bars,food delivery services,3
+cocktail bars,hotels,3
+cocktail bars,hotels & travel,3
+cocktail bars,pop-up restaurants,3
+cocktail bars,soul food,3
+cocktail bars,vegan,3
+coffee & tea,food trucks,3
+coffee & tea,gelato,3
+coffee & tea,latin american,3
+coffee & tea,patisserie/cake shop,3
+coffee & tea,waffles,3
+colombian,latin american,3
+colombian,restaurants,3
+comfort food,desserts,3
+comfort food,hot dogs,3
+comfort food,vegetarian,3
+comfort food,wine & spirits,3
+convenience stores,gas stations,3
+convenience stores,seafood,3
+convenience stores,specialty food,3
+cooking schools,education,3
+cooking schools,hotels & travel,3
+cooking schools,restaurants,3
+cooking schools,specialty schools,3
+cuban,food,3
+cuban,mexican,3
+cuban,nightlife,3
+cuban,sandwiches,3
+cuban,spanish,3
+custom cakes,food,3
+custom cakes,restaurants,3
+delis,italian,3
+desserts,gelato,3
+desserts,grocery,3
+desserts,kosher,3
+desserts,local flavor,3
+desserts,macarons,3
+desserts,mediterranean,3
+desserts,vegan,3
+diners,french,3
+diners,pizza,3
+diners,salad,3
+diners,waffles,3
+dive bars,lounges,3
+dive bars,wine & spirits,3
+do-it-yourself food,food,3
+do-it-yourself food,restaurants,3
+education,hotels & travel,3
+ethiopian,restaurants,3
+ethnic food,event planning & services,3
+ethnic food,seafood,3
+ethnic food,vietnamese,3
+event planning & services,fast food,3
+event planning & services,sports bars,3
+event planning & services,tours,3
+event planning & services,wine & spirits,3
+falafel,halal,3
+fast food,ice cream & frozen yogurt,3
+fast food,soul food,3
+fast food,southern,3
+festivals,food,3
+festivals,local flavor,3
+fish & chips,southern,3
+fitness & instruction,restaurants,3
+flowers & gifts,restaurants,3
+flowers & gifts,shopping,3
+food,hookah bars,3
+food,indian,3
+food,kosher,3
+food,macarons,3
+food,noodles,3
+food,spanish,3
+food,turkish,3
+food,wholesale stores,3
+food court,food trucks,3
+food delivery services,gluten-free,3
+food delivery services,meat shops,3
+food delivery services,soul food,3
+food delivery services,vegan,3
+food delivery services,wine & spirits,3
+food trucks,pop-up restaurants,3
+food trucks,southern,3
+french,italian,3
+french,party & event planning,3
+french,pizza,3
+french,sandwiches,3
+french,vietnamese,3
+gastropubs,music venues,3
+gastropubs,pizza,3
+gastropubs,salad,3
+gastropubs,southern,3
+gay bars,nightlife,3
+gay bars,restaurants,3
+gelato,sandwiches,3
+german,restaurants,3
+gluten-free,health markets,3
+gluten-free,latin american,3
+gluten-free,mediterranean,3
+gluten-free,sandwiches,3
+grocery,salad,3
+grocery,seafood,3
+grocery,shopping,3
+grocery,vietnamese,3
+halal,kebab,3
+halal,vegetarian,3
+health & medical,restaurants,3
+health markets,juice bars & smoothies,3
+home & garden,restaurants,3
+home & garden,shopping,3
+home services,restaurants,3
+honduran,restaurants,3
+hot dogs,salad,3
+hotels,jazz & blues,3
+hotels,lounges,3
+hotels,seafood,3
+hotels,southern,3
+hotels & travel,jazz & blues,3
+hotels & travel,local flavor,3
+hotels & travel,lounges,3
+hotels & travel,party & event planning,3
+hotels & travel,seafood,3
+hotels & travel,southern,3
+hotels & travel,specialty schools,3
+ice cream & frozen yogurt,shaved ice,3
+ice cream & frozen yogurt,specialty food,3
+indian,vegetarian,3
+irish pub,nightlife,3
+irish pub,restaurants,3
+italian,lounges,3
+italian,tapas/small plates,3
+jazz & blues,southern,3
+jazz & blues,wine & spirits,3
+latin american,peruvian,3
+latin american,salad,3
+latin american,soup,3
+latin american,tex-mex,3
+live/raw food,southern,3
+local flavor,lounges,3
+local flavor,shopping,3
+local services,restaurants,3
+lounges,party & event planning,3
+lounges,pop-up restaurants,3
+lounges,sandwiches,3
+macarons,restaurants,3
+macarons,specialty food,3
+mediterranean,pizza,3
+mexican,street vendors,3
+mexican,venues & event spaces,3
+middle eastern,salad,3
+new mexican cuisine,nightlife,3
+nightlife,soup,3
+nightlife,thai,3
+party & event planning,shopping,3
+pizza,shopping,3
+pizza,specialty food,3
+pop-up shops,restaurants,3
+pop-up shops,shopping,3
+pubs,seafood,3
+ramen,sushi bars,3
+restaurants,taiwanese,3
+restaurants,tobacco shops,3
+restaurants,trinidadian,3
+restaurants,wholesale stores,3
+salad,seafood markets,3
+salad,soul food,3
+salad,tapas/small plates,3
+salad,wraps,3
+sandwiches,tapas/small plates,3
+seafood,spanish,3
+seafood,vegan,3
+seafood,wraps,3
+shopping,soul food,3
+shopping,tapas/small plates,3
+shopping,tobacco shops,3
+shopping,wholesale stores,3
+shopping,wine & spirits,3
+soul food,specialty food,3
+soul food,vegan,3
+soup,vegan,3
+southern,steakhouses,3
+southern,tapas/small plates,3
+spanish,tapas bars,3
+specialty food,vegetarian,3
+specialty food,venues & event spaces,3
+specialty food,vietnamese,3
+sports bars,venues & event spaces,3
+tapas bars,wine & spirits,3
+vegetarian,venues & event spaces,3
+wine bars,wineries,3
+active life,american (traditional),2
+active life,arcades,2
+active life,bowling,2
+active life,cajun/creole,2
+active life,golf,2
+active life,gyms,2
+active life,hotels & travel,2
+active life,lounges,2
+active life,parks,2
+active life,pizza,2
+active life,seafood,2
+active life,southern,2
+active life,swimming pools,2
+adult entertainment,arts & entertainment,2
+adult entertainment,nightlife,2
+adult entertainment,restaurants,2
+african,food,2
+african,vegan,2
+american (new),beer bar,2
+american (new),breweries,2
+american (new),butcher,2
+american (new),cheesesteaks,2
+american (new),convenience stores,2
+american (new),ethnic food,2
+american (new),fish & chips,2
+american (new),food delivery services,2
+american (new),indian,2
+american (new),japanese,2
+american (new),kosher,2
+american (new),live/raw food,2
+american (new),meat shops,2
+american (new),organic stores,2
+american (new),spanish,2
+american (new),tea rooms,2
+american (new),thai,2
+american (new),vietnamese,2
+american (traditional),arcades,2
+american (traditional),brewpubs,2
+american (traditional),butcher,2
+american (traditional),convenience stores,2
+american (traditional),drive-thru bars,2
+american (traditional),eatertainment,2
+american (traditional),fish & chips,2
+american (traditional),gay bars,2
+american (traditional),gluten-free,2
+american (traditional),irish,2
+american (traditional),pool halls,2
+american (traditional),pop-up restaurants,2
+american (traditional),seafood markets,2
+american (traditional),wineries,2
+arcades,gastropubs,2
+arcades,sports bars,2
+art galleries,coffee & tea,2
+art galleries,food,2
+art galleries,tapas/small plates,2
+arts & crafts,event planning & services,2
+arts & crafts,restaurants,2
+arts & crafts,shopping,2
+arts & entertainment,barbeque,2
+arts & entertainment,bowling,2
+arts & entertainment,caribbean,2
+arts & entertainment,desserts,2
+arts & entertainment,eatertainment,2
+arts & entertainment,education,2
+arts & entertainment,food delivery services,2
+arts & entertainment,musicians,2
+arts & entertainment,parks,2
+arts & entertainment,party & event planning,2
+arts & entertainment,performing arts,2
+arts & entertainment,pool halls,2
+arts & entertainment,pop-up restaurants,2
+arts & entertainment,specialty food,2
+arts & entertainment,specialty schools,2
+arts & entertainment,wine tasting room,2
+asian fusion,barbeque,2
+asian fusion,beer,2
+asian fusion,bubble tea,2
+asian fusion,buffets,2
+asian fusion,burgers,2
+asian fusion,grocery,2
+asian fusion,imported food,2
+asian fusion,latin american,2
+asian fusion,pan asian,2
+asian fusion,ramen,2
+asian fusion,sports bars,2
+asian fusion,wine & spirits,2
+automotive,delis,2
+automotive,soul food,2
+bagels,salad,2
+bakeries,burgers,2
+bakeries,custom cakes,2
+bakeries,delis,2
+bakeries,french,2
+bakeries,gelato,2
+bakeries,italian,2
+bakeries,shopping,2
+barbeque,beer,2
+barbeque,breakfast & brunch,2
+barbeque,comfort food,2
+barbeque,diners,2
+barbeque,food delivery services,2
+barbeque,italian,2
+barbeque,meat shops,2
+barbeque,music venues,2
+barbeque,pizza,2
+barbeque,smokehouse,2
+barbeque,soup,2
+barbeque,tapas/small plates,2
+barbeque,wine & spirits,2
+bars,bowling,2
+bars,brazilian,2
+bars,buffets,2
+bars,colombian,2
+bars,drive-thru bars,2
+bars,eatertainment,2
+bars,ethnic food,2
+bars,fast food,2
+bars,fish & chips,2
+bars,greek,2
+bars,indian,2
+bars,live/raw food,2
+bars,musicians,2
+bars,noodles,2
+bars,peruvian,2
+bars,piano bars,2
+bars,pretzels,2
+bars,ramen,2
+bars,spanish,2
+bars,tobacco shops,2
+bars,wine tasting room,2
+bars,wraps,2
+basque,seafood,2
+beauty & spas,restaurants,2
+beer,cafes,2
+beer,cheese shops,2
+beer,coffee & tea,2
+beer,ethnic food,2
+beer,fast food,2
+beer,french,2
+beer,gastropubs,2
+beer,local flavor,2
+beer,mediterranean,2
+beer,middle eastern,2
+beer,pasta shops,2
+beer,soup,2
+beer,southern,2
+beer,vegetarian,2
+beer bar,breakfast & brunch,2
+beer bar,burgers,2
+beer bar,cajun/creole,2
+beer bar,diners,2
+beer bar,italian,2
+beer bar,pizza,2
+beer bar,pop-up restaurants,2
+beer gardens,cocktail bars,2
+beer gardens,food,2
+beer gardens,pubs,2
+boat charters,tours,2
+books,bookstores,2
+books,mags,2
+books,music & video,2
+books,restaurants,2
+books,shopping,2
+bookstores,mags,2
+bookstores,music & video,2
+bookstores,restaurants,2
+bookstores,shopping,2
+bowling,nightlife,2
+bowling,restaurants,2
+brasseries,cocktail bars,2
+brasseries,modern european,2
+brasseries,southern,2
+brasseries,tapas/small plates,2
+brazilian,latin american,2
+brazilian,nightlife,2
+brazilian,seafood,2
+brazilian,steakhouses,2
+breakfast & brunch,buffets,2
+breakfast & brunch,cafeteria,2
+breakfast & brunch,chinese,2
+breakfast & brunch,convenience stores,2
+breakfast & brunch,dive bars,2
+breakfast & brunch,food trucks,2
+breakfast & brunch,fruits & veggies,2
+breakfast & brunch,german,2
+breakfast & brunch,internet cafes,2
+breakfast & brunch,patisserie/cake shop,2
+breakfast & brunch,pubs,2
+breakfast & brunch,spanish,2
+breakfast & brunch,tea rooms,2
+breweries,burgers,2
+breweries,cajun/creole,2
+bubble tea,cafes,2
+buffets,cajun/creole,2
+buffets,chinese,2
+buffets,food,2
+buffets,nightlife,2
+buffets,sandwiches,2
+burgers,cheesesteaks,2
+burgers,chicken shop,2
+burgers,comfort food,2
+burgers,convenience stores,2
+burgers,dance clubs,2
+burgers,desserts,2
+burgers,french,2
+burgers,gastropubs,2
+burgers,gay bars,2
+burgers,gluten-free,2
+burgers,ice cream & frozen yogurt,2
+burgers,jazz & blues,2
+burgers,soul food,2
+burgers,soup,2
+burgers,specialty food,2
+burgers,tapas/small plates,2
+burgers,waffles,2
+burmese,restaurants,2
+cafes,chocolatiers & shops,2
+cafes,flowers & gifts,2
+cafes,gastropubs,2
+cafes,kosher,2
+cafes,latin american,2
+cafes,local flavor,2
+cafes,mediterranean,2
+cafes,middle eastern,2
+cafes,peruvian,2
+cafes,themed cafes,2
+cafes,waffles,2
+cafes,wine & spirits,2
+cafeteria,food,2
+cafeteria,specialty food,2
+cajun/creole,candy stores,2
+cajun/creole,convenience stores,2
+cajun/creole,cooking schools,2
+cajun/creole,cuban,2
+cajun/creole,education,2
+cajun/creole,fish & chips,2
+cajun/creole,gastropubs,2
+cajun/creole,gay bars,2
+cajun/creole,ice cream & frozen yogurt,2
+cajun/creole,indian,2
+cajun/creole,japanese,2
+cajun/creole,meat shops,2
+cajun/creole,pizza,2
+cajun/creole,specialty schools,2
+cajun/creole,street vendors,2
+cajun/creole,sushi bars,2
+cajun/creole,tex-mex,2
+cajun/creole,tours,2
+cajun/creole,wraps,2
+caribbean,chicken wings,2
+caribbean,food delivery services,2
+caribbean,french,2
+caribbean,gluten-free,2
+caribbean,haitian,2
+caribbean,jazz & blues,2
+caribbean,personal chefs,2
+caribbean,salad,2
+caribbean,sandwiches,2
+caribbean,spanish,2
+caribbean,specialty food,2
+caribbean,tapas bars,2
+caterers,cocktail bars,2
+caterers,comfort food,2
+caterers,diners,2
+caterers,ethnic food,2
+caterers,filipino,2
+caterers,gluten-free,2
+caterers,grocery,2
+caterers,meat shops,2
+caterers,shopping,2
+caterers,soup,2
+caterers,vegan,2
+caterers,vegetarian,2
+caterers,venezuelan,2
+caterers,wedding planning,2
+champagne bars,cocktail bars,2
+champagne bars,food,2
+champagne bars,tapas/small plates,2
+cheese shops,wine & spirits,2
+cheesesteaks,nightlife,2
+chicken shop,comfort food,2
+chicken wings,comfort food,2
+chicken wings,convenience stores,2
+chicken wings,food court,2
+chicken wings,food delivery services,2
+chicken wings,grocery,2
+chicken wings,hot dogs,2
+chicken wings,latin american,2
+chicken wings,mexican,2
+chicken wings,soup,2
+chicken wings,specialty food,2
+chicken wings,tacos,2
+chinese,convenience stores,2
+chinese,grocery,2
+chinese,japanese,2
+chinese,sandwiches,2
+chinese,soul food,2
+chinese,specialty food,2
+chinese,sushi bars,2
+chinese,szechuan,2
+chocolatiers & shops,desserts,2
+cocktail bars,cuban,2
+cocktail bars,delis,2
+cocktail bars,latin american,2
+cocktail bars,party & event planning,2
+cocktail bars,peruvian,2
+cocktail bars,piano bars,2
+cocktail bars,pretzels,2
+cocktail bars,pubs,2
+cocktail bars,soup,2
+cocktail bars,steakhouses,2
+cocktail bars,sushi bars,2
+coffee & tea,comfort food,2
+coffee & tea,food delivery services,2
+coffee & tea,french,2
+coffee & tea,health markets,2
+coffee & tea,local flavor,2
+coffee & tea,mediterranean,2
+coffee & tea,mexican,2
+coffee & tea,music venues,2
+coffee & tea,tapas/small plates,2
+coffee & tea,themed cafes,2
+coffee & tea,turkish,2
+coffee & tea,wine & spirits,2
+coffee & tea,wine bars,2
+colombian,nightlife,2
+comfort food,fast food,2
+comfort food,food delivery services,2
+comfort food,gluten-free,2
+comfort food,latin american,2
+comfort food,salad,2
+convenience stores,ethnic food,2
+convenience stores,salad,2
+cooking schools,tours,2
+creperies,desserts,2
+creperies,event planning & services,2
+creperies,food trucks,2
+creperies,french,2
+creperies,gluten-free,2
+creperies,specialty food,2
+creperies,vegan,2
+creperies,venues & event spaces,2
+cuban,event planning & services,2
+cupcakes,food,2
+cupcakes,restaurants,2
+dance clubs,food,2
+dance clubs,lounges,2
+delicatessen,delis,2
+delicatessen,food,2
+delicatessen,grocery,2
+delicatessen,restaurants,2
+delis,donuts,2
+delis,food delivery services,2
+delis,gas stations,2
+delis,pizza,2
+delis,soul food,2
+delis,soup,2
+delis,southern,2
+delis,tapas/small plates,2
+desserts,donuts,2
+desserts,fast food,2
+desserts,food stands,2
+desserts,juice bars & smoothies,2
+desserts,lounges,2
+desserts,mexican,2
+desserts,middle eastern,2
+desserts,shaved ice,2
+desserts,shopping,2
+desserts,soul food,2
+desserts,tacos,2
+desserts,wine bars,2
+diners,dive bars,2
+diners,event planning & services,2
+diners,southern,2
+diners,specialty food,2
+diners,vegetarian,2
+dive bars,mexican,2
+dive bars,tapas/small plates,2
+dive bars,vegetarian,2
+do-it-yourself food,local flavor,2
+donuts,pizza,2
+donuts,vegan,2
+drive-thru bars,nightlife,2
+drive-thru bars,restaurants,2
+eatertainment,nightlife,2
+eatertainment,restaurants,2
+education,food,2
+education,tours,2
+ethiopian,vegetarian,2
+ethnic food,fast food,2
+ethnic food,filipino,2
+ethnic food,italian,2
+ethnic food,mexican,2
+ethnic food,nightlife,2
+ethnic food,sandwiches,2
+ethnic food,soul food,2
+ethnic food,southern,2
+ethnic food,wine & spirits,2
+event planning & services,filipino,2
+event planning & services,gluten-free,2
+event planning & services,live/raw food,2
+event planning & services,meat shops,2
+event planning & services,musicians,2
+event planning & services,resorts,2
+event planning & services,soup,2
+event planning & services,spanish,2
+event planning & services,steakhouses,2
+event planning & services,vegan,2
+event planning & services,venezuelan,2
+falafel,vegetarian,2
+farmers market,sandwiches,2
+fast food,food delivery services,2
+fast food,food trucks,2
+fast food,gluten-free,2
+fast food,nightlife,2
+fast food,shaved ice,2
+fast food,wine & spirits,2
+festivals,music venues,2
+festivals,nightlife,2
+festivals,seafood,2
+filipino,specialty food,2
+fish & chips,food,2
+fish & chips,gastropubs,2
+fish & chips,nightlife,2
+fish & chips,salad,2
+fitness & instruction,gyms,2
+flowers & gifts,food,2
+flowers & gifts,gift shops,2
+fondue,food,2
+fondue,french,2
+fondue,restaurants,2
+food,german,2
+food,gift shops,2
+food,health & medical,2
+food,herbal shops,2
+food,international grocery,2
+food,korean,2
+food,local services,2
+food,organic stores,2
+food,pasta shops,2
+food,personal chefs,2
+food,pretzels,2
+food,ramen,2
+food,smokehouse,2
+food,souvenir shops,2
+food,specialty schools,2
+food,swimming pools,2
+food,thai,2
+food,themed cafes,2
+food,wedding planning,2
+food,wine tasting room,2
+food,wraps,2
+food court,salad,2
+food court,seafood,2
+food delivery services,food trucks,2
+food delivery services,personal chefs,2
+food delivery services,seafood,2
+food delivery services,wine bars,2
+food stands,shaved ice,2
+food trucks,pizza,2
+food trucks,shaved ice,2
+food trucks,tacos,2
+food trucks,tex-mex,2
+food trucks,vegetarian,2
+food trucks,wraps,2
+french,hotels,2
+french,hotels & travel,2
+french,japanese,2
+french,local flavor,2
+french,pubs,2
+french,seafood markets,2
+french,wine & spirits,2
+gas stations,soul food,2
+gastropubs,italian,2
+gastropubs,mediterranean,2
+gastropubs,pubs,2
+gastropubs,tapas/small plates,2
+gastropubs,wine & spirits,2
+gelato,ice cream & frozen yogurt,2
+gelato,italian,2
+german,nightlife,2
+gift shops,restaurants,2
+gift shops,shopping,2
+gluten-free,ice cream & frozen yogurt,2
+gluten-free,mexican,2
+gluten-free,seafood,2
+golf,restaurants,2
+greek,nightlife,2
+grocery,indian,2
+grocery,soul food,2
+gyms,restaurants,2
+haitian,restaurants,2
+halal,seafood,2
+hawaiian,seafood,2
+health & medical,herbal shops,2
+health & medical,vegan,2
+health markets,vegan,2
+herbal shops,restaurants,2
+herbal shops,vegan,2
+home services,real estate,2
+home services,shopping,2
+honduran,latin american,2
+hookah bars,lounges,2
+hot dogs,ice cream & frozen yogurt,2
+hotels,party & event planning,2
+hotels & travel,resorts,2
+hotels & travel,shopping,2
+hotels & travel,steakhouses,2
+hotels & travel,travel services,2
+ice cream & frozen yogurt,italian,2
+ice cream & frozen yogurt,macarons,2
+ice cream & frozen yogurt,seafood,2
+ice cream & frozen yogurt,vegetarian,2
+indian,nightlife,2
+indian,thai,2
+international grocery,restaurants,2
+internet cafes,sandwiches,2
+irish,irish pub,2
+irish,pubs,2
+irish,sandwiches,2
+italian,local flavor,2
+italian,mediterranean,2
+italian,music venues,2
+italian,pasta shops,2
+italian,pubs,2
+italian,sports bars,2
+italian,wineries,2
+japanese,karaoke,2
+japanese,pop-up restaurants,2
+japanese,tapas bars,2
+japanese,tapas/small plates,2
+japanese,teppanyaki,2
+jazz & blues,musicians,2
+jazz & blues,soul food,2
+juice bars & smoothies,local flavor,2
+juice bars & smoothies,mediterranean,2
+juice bars & smoothies,organic stores,2
+juice bars & smoothies,waffles,2
+karaoke,seafood,2
+karaoke,sushi bars,2
+kebab,lebanese,2
+kebab,vegetarian,2
+kosher,mediterranean,2
+landmarks & historical buildings,local flavor,2
+landmarks & historical buildings,public services & government,2
+landmarks & historical buildings,restaurants,2
+latin american,tacos,2
+latin american,tapas bars,2
+latin american,tapas/small plates,2
+latin american,vegan,2
+latin american,venues & event spaces,2
+live/raw food,nightlife,2
+local flavor,public services & government,2
+local flavor,seafood markets,2
+local flavor,soul food,2
+local flavor,tours,2
+local flavor,travel services,2
+local flavor,vegetarian,2
+local flavor,wine & spirits,2
+local flavor,wine bars,2
+local services,soul food,2
+lounges,mediterranean,2
+lounges,pubs,2
+lounges,shopping,2
+lounges,tapas bars,2
+lounges,tiki bars,2
+lounges,tobacco shops,2
+lounges,whiskey bars,2
+mags,music & video,2
+mags,restaurants,2
+mags,shopping,2
+meat shops,southern,2
+mediterranean,seafood,2
+mediterranean,specialty food,2
+mediterranean,wine & spirits,2
+mediterranean,wine bars,2
+mexican,music venues,2
+mexican,specialty food,2
+mexican,sports bars,2
+mexican,tapas/small plates,2
+mexican,venezuelan,2
+mexican,wine bars,2
+middle eastern,seafood,2
+middle eastern,specialty food,2
+middle eastern,vegan,2
+middle eastern,wine & spirits,2
+modern european,southern,2
+music & video,restaurants,2
+music & video,shopping,2
+music venues,soul food,2
+music venues,tapas/small plates,2
+music venues,vegetarian,2
+musicians,nightlife,2
+musicians,restaurants,2
+new mexican cuisine,tacos,2
+nightlife,noodles,2
+nightlife,peruvian,2
+nightlife,piano bars,2
+nightlife,pretzels,2
+nightlife,ramen,2
+nightlife,spanish,2
+nightlife,tobacco shops,2
+nightlife,wine tasting room,2
+nightlife,wraps,2
+noodles,pop-up restaurants,2
+noodles,ramen,2
+noodles,seafood,2
+noodles,sushi bars,2
+organic stores,restaurants,2
+pan asian,restaurants,2
+parks,restaurants,2
+party & event planning,salad,2
+party & event planning,seafood,2
+party & event planning,southern,2
+party & event planning,wedding planning,2
+pasta shops,restaurants,2
+pasta shops,sandwiches,2
+pasta shops,specialty food,2
+pasta shops,wine & spirits,2
+performing arts,restaurants,2
+piano bars,restaurants,2
+pizza,pretzels,2
+pizza,pubs,2
+pizza,whiskey bars,2
+pizza,wholesale stores,2
+poke,seafood,2
+pool halls,sports bars,2
+pop-up restaurants,ramen,2
+pop-up restaurants,sandwiches,2
+pop-up restaurants,seafood,2
+pop-up restaurants,vegan,2
+pretzels,restaurants,2
+public services & government,restaurants,2
+real estate,restaurants,2
+resorts,restaurants,2
+restaurants,shopping centers,2
+restaurants,smokehouse,2
+restaurants,souvenir shops,2
+restaurants,sporting goods,2
+restaurants,swimming pools,2
+restaurants,szechuan,2
+restaurants,teppanyaki,2
+restaurants,themed cafes,2
+restaurants,travel services,2
+restaurants,wine tasting room,2
+salad,sports bars,2
+salad,tapas bars,2
+salad,thai,2
+salad,venues & event spaces,2
+sandwiches,tobacco shops,2
+seafood,thai,2
+seafood,whiskey bars,2
+shopping,shopping centers,2
+shopping,souvenir shops,2
+shopping,sporting goods,2
+shopping,travel services,2
+shopping,vegetarian,2
+soul food,vegetarian,2
+soup,wine & spirits,2
+southern,vietnamese,2
+southern,wine & spirits,2
+spanish,wine bars,2
+specialty food,wine bars,2
+specialty schools,tours,2
+sports bars,steakhouses,2
+sports bars,sushi bars,2
+sports bars,vegetarian,2
+sports bars,whiskey bars,2
+steakhouses,tapas/small plates,2
+sushi bars,teppanyaki,2
+tacos,tapas/small plates,2
+tacos,wine bars,2
+tapas/small plates,venues & event spaces,2
+tapas/small plates,wineries,2
+thai,vegan,2
+thai,vietnamese,2
+vegan,wine bars,2
+vegan,wraps,2
+vegetarian,vietnamese,2
+vegetarian,wine & spirits,2
+venues & event spaces,wedding planning,2
+venues & event spaces,wine bars,2
+wine bars,wine tasting room,2
+wine tasting room,wineries,2
+acai bowls,coffee & tea,1
+acai bowls,health & medical,1
+acai bowls,health markets,1
+acai bowls,herbal shops,1
+acai bowls,salad,1
+acai bowls,specialty food,1
+active life,adult entertainment,1
+active life,american (new),1
+active life,aquariums,1
+active life,barbeque,1
+active life,beer bar,1
+active life,boat charters,1
+active life,boat tours,1
+active life,boating,1
+active life,cocktail bars,1
+active life,cultural center,1
+active life,eatertainment,1
+active life,golf equipment,1
+active life,golf lessons,1
+active life,hookah bars,1
+active life,hotels,1
+active life,indoor playcentre,1
+active life,italian,1
+active life,kids activities,1
+active life,landmarks & historical buildings,1
+active life,local flavor,1
+active life,mediterranean,1
+active life,music venues,1
+active life,performing arts,1
+active life,pool halls,1
+active life,public services & government,1
+active life,shopping,1
+active life,sporting goods,1
+active life,sports bars,1
+active life,steakhouses,1
+active life,tours,1
+active life,turkish,1
+active life,venues & event spaces,1
+adult,bakeries,1
+adult,event planning & services,1
+adult,food,1
+adult,party & event planning,1
+adult,restaurants,1
+adult,shopping,1
+adult entertainment,american (traditional),1
+adult entertainment,arcades,1
+adult entertainment,bars,1
+adult entertainment,bowling,1
+adult entertainment,cabaret,1
+adult entertainment,eatertainment,1
+adult entertainment,pool halls,1
+adult entertainment,sports bars,1
+african,american (new),1
+african,bars,1
+african,cafes,1
+african,chicken wings,1
+african,coffee & tea,1
+african,comfort food,1
+african,ethiopian,1
+african,food trucks,1
+african,nightlife,1
+african,seafood,1
+african,soul food,1
+african,sports bars,1
+american (new),auction houses,1
+american (new),bar crawl,1
+american (new),barbers,1
+american (new),basque,1
+american (new),beauty & spas,1
+american (new),bowling,1
+american (new),brewpubs,1
+american (new),british,1
+american (new),bubble tea,1
+american (new),cafeteria,1
+american (new),champagne bars,1
+american (new),cheese shops,1
+american (new),cigar bars,1
+american (new),country clubs,1
+american (new),cupcakes,1
+american (new),dim sum,1
+american (new),empanadas,1
+american (new),farmers market,1
+american (new),food stands,1
+american (new),gay bars,1
+american (new),german,1
+american (new),grocery,1
+american (new),hawaiian,1
+american (new),home & garden,1
+american (new),ice cream & frozen yogurt,1
+american (new),irish pub,1
+american (new),kitchen & bath,1
+american (new),laotian,1
+american (new),middle eastern,1
+american (new),musicians,1
+american (new),personal chefs,1
+american (new),poke,1
+american (new),polish,1
+american (new),pop-up restaurants,1
+american (new),pop-up shops,1
+american (new),religious organizations,1
+american (new),russian,1
+american (new),seafood markets,1
+american (new),shopping centers,1
+american (new),taiwanese,1
+american (new),ukrainian,1
+american (new),wedding planning,1
+american (new),whiskey bars,1
+american (new),wine tasting room,1
+american (new),wineries,1
+american (traditional),apartments,1
+american (traditional),art galleries,1
+american (traditional),bar crawl,1
+american (traditional),bowling,1
+american (traditional),buffets,1
+american (traditional),cafeteria,1
+american (traditional),cheesesteaks,1
+american (traditional),chicken shop,1
+american (traditional),farmers market,1
+american (traditional),filipino,1
+american (traditional),food court,1
+american (traditional),gelato,1
+american (traditional),health markets,1
+american (traditional),home services,1
+american (traditional),irish pub,1
+american (traditional),japanese,1
+american (traditional),karaoke,1
+american (traditional),latin american,1
+american (traditional),live/raw food,1
+american (traditional),mediterranean,1
+american (traditional),middle eastern,1
+american (traditional),musicians,1
+american (traditional),new mexican cuisine,1
+american (traditional),noodles,1
+american (traditional),personal chefs,1
+american (traditional),piano bars,1
+american (traditional),pop-up shops,1
+american (traditional),real estate,1
+american (traditional),resorts,1
+american (traditional),shopping,1
+american (traditional),sushi bars,1
+american (traditional),swimming pools,1
+american (traditional),taiwanese,1
+american (traditional),tiki bars,1
+american (traditional),turkish,1
+american (traditional),whiskey bars,1
+american (traditional),wraps,1
+apartments,bars,1
+apartments,cocktail bars,1
+apartments,home services,1
+apartments,nightlife,1
+apartments,real estate,1
+apartments,restaurants,1
+aquariums,arts & entertainment,1
+aquariums,cajun/creole,1
+aquariums,golf,1
+aquariums,parks,1
+aquariums,performing arts,1
+aquariums,restaurants,1
+arabic,greek,1
+arabic,lebanese,1
+arabic,mediterranean,1
+arabic,middle eastern,1
+arabic,restaurants,1
+arcades,bowling,1
+arcades,eatertainment,1
+arcades,indoor playcentre,1
+arcades,kids activities,1
+arcades,mediterranean,1
+arcades,music venues,1
+arcades,pizza,1
+arcades,pool halls,1
+argentine,brazilian,1
+argentine,desserts,1
+argentine,food,1
+argentine,latin american,1
+argentine,restaurants,1
+argentine,steakhouses,1
+art galleries,breakfast & brunch,1
+art galleries,cafes,1
+art galleries,chicken wings,1
+art galleries,dive bars,1
+art galleries,music venues,1
+art galleries,persian/iranian,1
+art galleries,pop-up restaurants,1
+art galleries,pop-up shops,1
+art galleries,social clubs,1
+art galleries,tapas bars,1
+art tours,barbeque,1
+art tours,historical tours,1
+art tours,hotels & travel,1
+art tours,landmarks & historical buildings,1
+art tours,local flavor,1
+art tours,public services & government,1
+art tours,restaurants,1
+art tours,tours,1
+art tours,walking tours,1
+arts & crafts,arts & entertainment,1
+arts & crafts,books,1
+arts & crafts,bookstores,1
+arts & crafts,cafes,1
+arts & crafts,cajun/creole,1
+arts & crafts,cards & stationery,1
+arts & crafts,cooking classes,1
+arts & crafts,cooking schools,1
+arts & crafts,do-it-yourself food,1
+arts & crafts,education,1
+arts & crafts,flowers & gifts,1
+arts & crafts,food,1
+arts & crafts,food tours,1
+arts & crafts,hotels & travel,1
+arts & crafts,local flavor,1
+arts & crafts,mags,1
+arts & crafts,music & video,1
+arts & crafts,party & event planning,1
+arts & crafts,specialty schools,1
+arts & crafts,tours,1
+arts & crafts,travel services,1
+arts & crafts,venues & event spaces,1
+arts & entertainment,bakeries,1
+arts & entertainment,beer gardens,1
+arts & entertainment,brazilian,1
+arts & entertainment,cabaret,1
+arts & entertainment,caterers,1
+arts & entertainment,champagne bars,1
+arts & entertainment,comfort food,1
+arts & entertainment,cooking classes,1
+arts & entertainment,cooking schools,1
+arts & entertainment,country clubs,1
+arts & entertainment,cultural center,1
+arts & entertainment,cupcakes,1
+arts & entertainment,diners,1
+arts & entertainment,do-it-yourself food,1
+arts & entertainment,donuts,1
+arts & entertainment,filipino,1
+arts & entertainment,food court,1
+arts & entertainment,food stands,1
+arts & entertainment,food tours,1
+arts & entertainment,french,1
+arts & entertainment,gluten-free,1
+arts & entertainment,golf,1
+arts & entertainment,indoor playcentre,1
+arts & entertainment,juice bars & smoothies,1
+arts & entertainment,kids activities,1
+arts & entertainment,landmarks & historical buildings,1
+arts & entertainment,mediterranean,1
+arts & entertainment,persian/iranian,1
+arts & entertainment,piano bars,1
+arts & entertainment,pop-up shops,1
+arts & entertainment,public services & government,1
+arts & entertainment,salad,1
+arts & entertainment,social clubs,1
+arts & entertainment,steakhouses,1
+arts & entertainment,street vendors,1
+arts & entertainment,supernatural readings,1
+arts & entertainment,tacos,1
+arts & entertainment,tapas bars,1
+arts & entertainment,tiki bars,1
+arts & entertainment,tours,1
+arts & entertainment,travel services,1
+arts & entertainment,vegan,1
+arts & entertainment,whiskey bars,1
+arts & entertainment,wraps,1
+asian fusion,bagels,1
+asian fusion,bar crawl,1
+asian fusion,beer bar,1
+asian fusion,brazilian,1
+asian fusion,caribbean,1
+asian fusion,caterers,1
+asian fusion,chicken wings,1
+asian fusion,convenience stores,1
+asian fusion,dance clubs,1
+asian fusion,diners,1
+asian fusion,event planning & services,1
+asian fusion,filipino,1
+asian fusion,food court,1
+asian fusion,food delivery services,1
+asian fusion,food trucks,1
+asian fusion,french,1
+asian fusion,gluten-free,1
+asian fusion,italian,1
+asian fusion,karaoke,1
+asian fusion,korean,1
+asian fusion,local flavor,1
+asian fusion,lounges,1
+asian fusion,mediterranean,1
+asian fusion,middle eastern,1
+asian fusion,pop-up restaurants,1
+asian fusion,pubs,1
+asian fusion,shanghainese,1
+asian fusion,shopping,1
+asian fusion,soul food,1
+asian fusion,soup,1
+asian fusion,southern,1
+asian fusion,tapas bars,1
+asian fusion,venezuelan,1
+auction houses,bars,1
+auction houses,cocktail bars,1
+auction houses,coffee & tea,1
+auction houses,food,1
+auction houses,food court,1
+auction houses,nightlife,1
+auction houses,restaurants,1
+auction houses,seafood,1
+auction houses,shopping,1
+automotive,donuts,1
+automotive,grocery,1
+automotive,sandwiches,1
+automotive,seafood,1
+automotive,southern,1
+bagels,bars,1
+bagels,burgers,1
+bagels,cajun/creole,1
+bagels,candy stores,1
+bagels,cheese shops,1
+bagels,cocktail bars,1
+bagels,delicatessen,1
+bagels,donuts,1
+bagels,food delivery services,1
+bagels,gelato,1
+bagels,indian,1
+bagels,italian,1
+bagels,juice bars & smoothies,1
+bagels,nightlife,1
+bagels,patisserie/cake shop,1
+bagels,shopping,1
+bagels,specialty food,1
+bagels,tapas bars,1
+bagels,tea rooms,1
+bagels,vegetarian,1
+bakeries,bars,1
+bakeries,beer gardens,1
+bakeries,candy stores,1
+bakeries,chicken wings,1
+bakeries,chinese,1
+bakeries,coffee roasteries,1
+bakeries,cupcakes,1
+bakeries,diners,1
+bakeries,fruits & veggies,1
+bakeries,german,1
+bakeries,gluten-free,1
+bakeries,grocery,1
+bakeries,health markets,1
+bakeries,hot dogs,1
+bakeries,internet cafes,1
+bakeries,jazz & blues,1
+bakeries,kosher,1
+bakeries,local flavor,1
+bakeries,macarons,1
+bakeries,mexican,1
+bakeries,organic stores,1
+bakeries,party & event planning,1
+bakeries,pizza,1
+bakeries,religious organizations,1
+bakeries,seafood,1
+bakeries,soup,1
+bakeries,southern,1
+bakeries,tacos,1
+bakeries,turkish,1
+bar crawl,bars,1
+bar crawl,breakfast & brunch,1
+bar crawl,cocktail bars,1
+bar crawl,gastropubs,1
+bar crawl,nightlife,1
+bar crawl,restaurants,1
+bar crawl,sports bars,1
+bar crawl,vegetarian,1
+barbeque,beer bar,1
+barbeque,breweries,1
+barbeque,caribbean,1
+barbeque,cheesesteaks,1
+barbeque,chinese,1
+barbeque,dim sum,1
+barbeque,filipino,1
+barbeque,fitness & instruction,1
+barbeque,food stands,1
+barbeque,gastropubs,1
+barbeque,gyms,1
+barbeque,historical tours,1
+barbeque,hot dogs,1
+barbeque,hotels & travel,1
+barbeque,irish,1
+barbeque,japanese,1
+barbeque,korean,1
+barbeque,landmarks & historical buildings,1
+barbeque,mexican,1
+barbeque,pan asian,1
+barbeque,pop-up restaurants,1
+barbeque,public services & government,1
+barbeque,pubs,1
+barbeque,seafood markets,1
+barbeque,steakhouses,1
+barbeque,tacos,1
+barbeque,tex-mex,1
+barbeque,thai,1
+barbeque,tours,1
+barbeque,venues & event spaces,1
+barbeque,vietnamese,1
+barbeque,walking tours,1
+barbeque,yelp events,1
+barbers,beauty & spas,1
+barbers,cafeteria,1
+barbers,cajun/creole,1
+barbers,chinese,1
+barbers,comfort food,1
+barbers,restaurants,1
+barbers,seafood,1
+barbers,southern,1
+bars,brewpubs,1
+bars,british,1
+bars,butcher,1
+bars,cheesesteaks,1
+bars,chicken shop,1
+bars,cigar bars,1
+bars,convenience stores,1
+bars,country clubs,1
+bars,cupcakes,1
+bars,do-it-yourself food,1
+bars,education,1
+bars,empanadas,1
+bars,farmers market,1
+bars,filipino,1
+bars,fondue,1
+bars,food trucks,1
+bars,gelato,1
+bars,german,1
+bars,hawaiian,1
+bars,home services,1
+bars,hot dogs,1
+bars,internet cafes,1
+bars,kebab,1
+bars,lebanese,1
+bars,pasta shops,1
+bars,personal chefs,1
+bars,photographers,1
+bars,pop-up shops,1
+bars,real estate,1
+bars,shopping centers,1
+bars,specialty schools,1
+bars,swimming pools,1
+bars,taiwanese,1
+bars,tea rooms,1
+bars,themed cafes,1
+bars,tours,1
+bars,turkish,1
+bars,venezuelan,1
+bars,wedding planning,1
+basque,cajun/creole,1
+basque,latin american,1
+basque,steakhouses,1
+basque,tapas/small plates,1
+beauty & spas,cafeteria,1
+beauty & spas,cajun/creole,1
+beauty & spas,chinese,1
+beauty & spas,comfort food,1
+beauty & spas,day spas,1
+beauty & spas,event planning & services,1
+beauty & spas,hair salons,1
+beauty & spas,hotels,1
+beauty & spas,hotels & travel,1
+beauty & spas,seafood,1
+beauty & spas,skin care,1
+beauty & spas,southern,1
+bed & breakfast,event planning & services,1
+bed & breakfast,hotels,1
+bed & breakfast,hotels & travel,1
+bed & breakfast,restaurants,1
+beer,buffets,1
+beer,champagne bars,1
+beer,cheesesteaks,1
+beer,chocolatiers & shops,1
+beer,creperies,1
+beer,dance clubs,1
+beer,discount store,1
+beer,do-it-yourself food,1
+beer,education,1
+beer,filipino,1
+beer,fondue,1
+beer,gluten-free,1
+beer,hookah bars,1
+beer,hot dogs,1
+beer,imported food,1
+beer,irish,1
+beer,juice bars & smoothies,1
+beer,meat shops,1
+beer,modern european,1
+beer,new mexican cuisine,1
+beer,piano bars,1
+beer,pool halls,1
+beer,specialty schools,1
+beer,steakhouses,1
+beer,thai,1
+beer,tobacco shops,1
+beer,vape shops,1
+beer,vegan,1
+beer,wine tasting room,1
+beer,wineries,1
+beer bar,beer gardens,1
+beer bar,champagne bars,1
+beer bar,dive bars,1
+beer bar,event planning & services,1
+beer bar,new mexican cuisine,1
+beer bar,pubs,1
+beer bar,soup,1
+beer bar,swimming pools,1
+beer bar,tapas/small plates,1
+beer bar,tex-mex,1
+beer bar,tiki bars,1
+beer bar,vegan,1
+beer bar,vegetarian,1
+beer bar,venues & event spaces,1
+beer gardens,breakfast & brunch,1
+beer gardens,coffee & tea,1
+beer gardens,french,1
+beer gardens,gastropubs,1
+beer gardens,german,1
+beer gardens,lounges,1
+beer gardens,mediterranean,1
+beer gardens,mexican,1
+beer gardens,pop-up restaurants,1
+beer gardens,southern,1
+beer gardens,tacos,1
+bike repair/maintenance,bikes,1
+bike repair/maintenance,cafes,1
+bike repair/maintenance,fashion,1
+bike repair/maintenance,local services,1
+bike repair/maintenance,professional services,1
+bike repair/maintenance,restaurants,1
+bike repair/maintenance,shopping,1
+bike repair/maintenance,sporting goods,1
+bike repair/maintenance,sports wear,1
+bikes,cafes,1
+bikes,fashion,1
+bikes,local services,1
+bikes,professional services,1
+bikes,restaurants,1
+bikes,shopping,1
+bikes,sporting goods,1
+bikes,sports wear,1
+boat charters,boat tours,1
+boat charters,boating,1
+boat charters,cajun/creole,1
+boat charters,caribbean,1
+boat charters,resorts,1
+boat tours,boating,1
+boat tours,event planning & services,1
+boat tours,hotels & travel,1
+boat tours,restaurants,1
+boat tours,tours,1
+boating,event planning & services,1
+boating,hotels & travel,1
+boating,restaurants,1
+boating,tours,1
+books,cafes,1
+books,cards & stationery,1
+books,coffee & tea,1
+books,event planning & services,1
+books,flowers & gifts,1
+books,food,1
+books,vegetarian,1
+bookstores,cafes,1
+bookstores,cards & stationery,1
+bookstores,coffee & tea,1
+bookstores,event planning & services,1
+bookstores,flowers & gifts,1
+bookstores,food,1
+bookstores,vegetarian,1
+bowling,cocktail bars,1
+bowling,eatertainment,1
+bowling,event planning & services,1
+bowling,lounges,1
+bowling,music venues,1
+bowling,pool halls,1
+bowling,southern,1
+bowling,sports bars,1
+bowling,venues & event spaces,1
+brasseries,brazilian,1
+brasseries,cafes,1
+brasseries,caterers,1
+brasseries,event planning & services,1
+brasseries,food,1
+brasseries,german,1
+brasseries,lounges,1
+brasseries,venues & event spaces,1
+brasseries,wine bars,1
+brazilian,breakfast & brunch,1
+brazilian,cajun/creole,1
+brazilian,caribbean,1
+brazilian,cocktail bars,1
+brazilian,desserts,1
+brazilian,food trucks,1
+brazilian,music venues,1
+brazilian,tapas/small plates,1
+brazilian,vegan,1
+brazilian,vegetarian,1
+breakfast & brunch,british,1
+breakfast & brunch,butcher,1
+breakfast & brunch,caribbean,1
+breakfast & brunch,cheese shops,1
+breakfast & brunch,cheesesteaks,1
+breakfast & brunch,chocolatiers & shops,1
+breakfast & brunch,country clubs,1
+breakfast & brunch,cuban,1
+breakfast & brunch,cupcakes,1
+breakfast & brunch,custom cakes,1
+breakfast & brunch,do-it-yourself food,1
+breakfast & brunch,filipino,1
+breakfast & brunch,food court,1
+breakfast & brunch,halal,1
+breakfast & brunch,health markets,1
+breakfast & brunch,honduran,1
+breakfast & brunch,imported food,1
+breakfast & brunch,irish,1
+breakfast & brunch,kebab,1
+breakfast & brunch,kosher,1
+breakfast & brunch,lebanese,1
+breakfast & brunch,live/raw food,1
+breakfast & brunch,middle eastern,1
+breakfast & brunch,pasta shops,1
+breakfast & brunch,performing arts,1
+breakfast & brunch,persian/iranian,1
+breakfast & brunch,shaved ice,1
+breakfast & brunch,steakhouses,1
+breakfast & brunch,thai,1
+breakfast & brunch,themed cafes,1
+breakfast & brunch,tobacco shops,1
+breweries,dance clubs,1
+breweries,event planning & services,1
+breweries,fish & chips,1
+breweries,gastropubs,1
+breweries,local flavor,1
+breweries,mexican,1
+breweries,seafood,1
+breweries,sports bars,1
+breweries,tacos,1
+breweries,venues & event spaces,1
+breweries,vietnamese,1
+brewpubs,burgers,1
+brewpubs,cajun/creole,1
+brewpubs,event planning & services,1
+brewpubs,fish & chips,1
+brewpubs,gastropubs,1
+brewpubs,nightlife,1
+brewpubs,pubs,1
+brewpubs,venues & event spaces,1
+brewpubs,vietnamese,1
+british,cocktail bars,1
+british,gastropubs,1
+british,nightlife,1
+british,restaurants,1
+british,southern,1
+bubble tea,cocktail bars,1
+bubble tea,coffee & tea,1
+bubble tea,desserts,1
+bubble tea,gastropubs,1
+bubble tea,ice cream & frozen yogurt,1
+bubble tea,japanese,1
+bubble tea,juice bars & smoothies,1
+bubble tea,karaoke,1
+bubble tea,macarons,1
+bubble tea,ramen,1
+bubble tea,salad,1
+bubble tea,sandwiches,1
+bubble tea,specialty food,1
+bubble tea,sushi bars,1
+bubble tea,vegan,1
+bubble tea,wine bars,1
+buffets,cocktail bars,1
+buffets,do-it-yourself food,1
+buffets,lounges,1
+buffets,mexican,1
+buffets,noodles,1
+buffets,salad,1
+buffets,soul food,1
+buffets,sushi bars,1
+buffets,vietnamese,1
+buffets,wine & spirits,1
+burgers,butcher,1
+burgers,delis,1
+burgers,falafel,1
+burgers,food delivery services,1
+burgers,halal,1
+burgers,health & medical,1
+burgers,health markets,1
+burgers,herbal shops,1
+burgers,irish pub,1
+burgers,juice bars & smoothies,1
+burgers,local flavor,1
+burgers,mediterranean,1
+burgers,middle eastern,1
+burgers,new mexican cuisine,1
+burgers,pool halls,1
+burgers,pop-up restaurants,1
+burgers,sushi bars,1
+burgers,vegan,1
+burgers,vegetarian,1
+burgers,wine bars,1
+burmese,coffee & tea,1
+burmese,ethnic food,1
+burmese,food,1
+burmese,malaysian,1
+burmese,specialty food,1
+burmese,vegetarian,1
+butcher,cajun/creole,1
+butcher,chicken wings,1
+butcher,delis,1
+butcher,farmers market,1
+butcher,italian,1
+butcher,nightlife,1
+butcher,seafood,1
+butcher,shopping,1
+butcher,southern,1
+butcher,steakhouses,1
+cabaret,nightlife,1
+cabaret,restaurants,1
+cafes,cafeteria,1
+cafes,cards & stationery,1
+cafes,cuban,1
+cafes,drive-thru bars,1
+cafes,ethiopian,1
+cafes,falafel,1
+cafes,fashion,1
+cafes,fast food,1
+cafes,fruits & veggies,1
+cafes,gelato,1
+cafes,gift shops,1
+cafes,greek,1
+cafes,grocery,1
+cafes,hookah bars,1
+cafes,hotels,1
+cafes,hotels & travel,1
+cafes,indian,1
+cafes,jazz & blues,1
+cafes,local services,1
+cafes,mags,1
+cafes,mexican,1
+cafes,modern european,1
+cafes,music & video,1
+cafes,organic stores,1
+cafes,patisserie/cake shop,1
+cafes,popcorn shops,1
+cafes,professional services,1
+cafes,pubs,1
+cafes,religious organizations,1
+cafes,shaved ice,1
+cafes,social clubs,1
+cafes,soup,1
+cafes,souvenir shops,1
+cafes,spanish,1
+cafes,sporting goods,1
+cafes,sports wear,1
+cafes,steakhouses,1
+cafes,tabletop games,1
+cafes,tacos,1
+cafes,tea rooms,1
+cafes,wedding planning,1
+cafes,wineries,1
+cafeteria,cajun/creole,1
+cafeteria,chinese,1
+cafeteria,comfort food,1
+cafeteria,diners,1
+cafeteria,health markets,1
+cafeteria,local flavor,1
+cafeteria,popcorn shops,1
+cafeteria,salad,1
+cafeteria,sandwiches,1
+cafeteria,seafood,1
+cafeteria,southern,1
+cajun/creole,coffee roasteries,1
+cajun/creole,community service/non-profit,1
+cajun/creole,cooking classes,1
+cajun/creole,country clubs,1
+cajun/creole,creperies,1
+cajun/creole,distilleries,1
+cajun/creole,dive bars,1
+cajun/creole,do-it-yourself food,1
+cajun/creole,eatertainment,1
+cajun/creole,empanadas,1
+cajun/creole,filipino,1
+cajun/creole,food tours,1
+cajun/creole,german,1
+cajun/creole,golf,1
+cajun/creole,haitian,1
+cajun/creole,herbs & spices,1
+cajun/creole,home & garden,1
+cajun/creole,imported food,1
+cajun/creole,internet cafes,1
+cajun/creole,irish,1
+cajun/creole,japanese curry,1
+cajun/creole,kitchen & bath,1
+cajun/creole,korean,1
+cajun/creole,local services,1
+cajun/creole,mass media,1
+cajun/creole,mediterranean,1
+cajun/creole,middle eastern,1
+cajun/creole,modern european,1
+cajun/creole,noodles,1
+cajun/creole,parks,1
+cajun/creole,performing arts,1
+cajun/creole,personal chefs,1
+cajun/creole,piano bars,1
+cajun/creole,pop-up restaurants,1
+cajun/creole,ramen,1
+cajun/creole,shaved ice,1
+cajun/creole,smokehouse,1
+cajun/creole,souvenir shops,1
+cajun/creole,supernatural readings,1
+cajun/creole,taiwanese,1
+cajun/creole,tea rooms,1
+cajun/creole,thai,1
+cajun/creole,tobacco shops,1
+cajun/creole,travel services,1
+cajun/creole,yelp events,1
+candy stores,cheese shops,1
+candy stores,coffee & tea,1
+candy stores,custom cakes,1
+candy stores,delicatessen,1
+candy stores,delis,1
+candy stores,desserts,1
+candy stores,grocery,1
+candy stores,hot dogs,1
+candy stores,patisserie/cake shop,1
+candy stores,seafood,1
+candy stores,soul food,1
+cards & stationery,event planning & services,1
+cards & stationery,flowers & gifts,1
+cards & stationery,mags,1
+cards & stationery,music & video,1
+cards & stationery,restaurants,1
+cards & stationery,shopping,1
+caribbean,caterers,1
+caribbean,comfort food,1
+caribbean,convenience stores,1
+caribbean,delis,1
+caribbean,food court,1
+caribbean,food trucks,1
+caribbean,hotels & travel,1
+caribbean,laotian,1
+caribbean,meat shops,1
+caribbean,resorts,1
+caribbean,soup,1
+caribbean,sports bars,1
+caribbean,venezuelan,1
+caribbean,venues & event spaces,1
+caribbean,vietnamese,1
+caribbean,wine bars,1
+caterers,chicken shop,1
+caterers,chocolatiers & shops,1
+caterers,convenience stores,1
+caterers,cuban,1
+caterers,cupcakes,1
+caterers,dance clubs,1
+caterers,dim sum,1
+caterers,farmers market,1
+caterers,fish & chips,1
+caterers,food court,1
+caterers,fruits & veggies,1
+caterers,gastropubs,1
+caterers,home & garden,1
+caterers,ice cream & frozen yogurt,1
+caterers,imported food,1
+caterers,indian,1
+caterers,juice bars & smoothies,1
+caterers,kitchen & bath,1
+caterers,kosher,1
+caterers,local flavor,1
+caterers,lounges,1
+caterers,mediterranean,1
+caterers,organic stores,1
+caterers,pakistani,1
+caterers,pasta shops,1
+caterers,pop-up restaurants,1
+caterers,pubs,1
+caterers,religious organizations,1
+caterers,smokehouse,1
+caterers,spanish,1
+caterers,supernatural readings,1
+caterers,tacos,1
+caterers,vietnamese,1
+caterers,wine bars,1
+caterers,yelp events,1
+champagne bars,cupcakes,1
+champagne bars,fondue,1
+champagne bars,french,1
+champagne bars,italian,1
+champagne bars,modern european,1
+champagne bars,pop-up restaurants,1
+champagne bars,salad,1
+champagne bars,southern,1
+champagne bars,wine & spirits,1
+champagne bars,wine tasting room,1
+champagne bars,wineries,1
+cheese shops,cheesesteaks,1
+cheese shops,delicatessen,1
+cheese shops,desserts,1
+cheese shops,grocery,1
+cheese shops,meat shops,1
+cheese shops,mediterranean,1
+cheese shops,middle eastern,1
+cheesesteaks,desserts,1
+cheesesteaks,food trucks,1
+cheesesteaks,pop-up restaurants,1
+cheesesteaks,specialty food,1
+cheesesteaks,vegan,1
+cheesesteaks,wine & spirits,1
+chicken shop,chinese,1
+chicken shop,desserts,1
+chicken shop,event planning & services,1
+chicken shop,fish & chips,1
+chicken shop,food trucks,1
+chicken shop,juice bars & smoothies,1
+chicken shop,nightlife,1
+chicken shop,noodles,1
+chicken shop,salad,1
+chicken shop,street vendors,1
+chicken shop,waffles,1
+chicken wings,coffee & tea,1
+chicken wings,cuban,1
+chicken wings,diners,1
+chicken wings,fish & chips,1
+chicken wings,gastropubs,1
+chicken wings,ice cream & frozen yogurt,1
+chicken wings,jazz & blues,1
+chicken wings,local flavor,1
+chicken wings,music venues,1
+chicken wings,personal chefs,1
+chicken wings,pop-up restaurants,1
+chicken wings,pop-up shops,1
+chicken wings,pubs,1
+chicken wings,seafood markets,1
+chicken wings,shopping,1
+chicken wings,smokehouse,1
+chicken wings,street vendors,1
+chicken wings,szechuan,1
+chicken wings,vegetarian,1
+chicken wings,venues & event spaces,1
+chicken wings,vietnamese,1
+chicken wings,waffles,1
+chicken wings,wineries,1
+chicken wings,wraps,1
+chicken wings,yelp events,1
+chinese,comfort food,1
+chinese,desserts,1
+chinese,diners,1
+chinese,ethnic food,1
+chinese,food court,1
+chinese,food trucks,1
+chinese,gluten-free,1
+chinese,imported food,1
+chinese,latin american,1
+chinese,mexican,1
+chinese,pan asian,1
+chinese,pop-up restaurants,1
+chinese,salad,1
+chinese,seafood markets,1
+chinese,shanghainese,1
+chinese,southern,1
+chinese,taiwanese,1
+chinese,vegan,1
+chinese,vegetarian,1
+chocolatiers & shops,cupcakes,1
+chocolatiers & shops,event planning & services,1
+chocolatiers & shops,ice cream & frozen yogurt,1
+chocolatiers & shops,macarons,1
+chocolatiers & shops,shopping,1
+chocolatiers & shops,wine & spirits,1
+christmas trees,holiday decorations,1
+christmas trees,home & garden,1
+christmas trees,home decor,1
+christmas trees,home services,1
+christmas trees,restaurants,1
+christmas trees,shopping,1
+christmas trees,tapas/small plates,1
+christmas trees,tree services,1
+cigar bars,food,1
+cigar bars,nightlife,1
+cigar bars,restaurants,1
+cigar bars,whiskey bars,1
+cocktail bars,cupcakes,1
+cocktail bars,do-it-yourself food,1
+cocktail bars,drive-thru bars,1
+cocktail bars,ethnic food,1
+cocktail bars,fish & chips,1
+cocktail bars,food court,1
+cocktail bars,gay bars,1
+cocktail bars,gelato,1
+cocktail bars,german,1
+cocktail bars,greek,1
+cocktail bars,hawaiian,1
+cocktail bars,home services,1
+cocktail bars,indian,1
+cocktail bars,live/raw food,1
+cocktail bars,mediterranean,1
+cocktail bars,modern european,1
+cocktail bars,pop-up shops,1
+cocktail bars,real estate,1
+cocktail bars,taiwanese,1
+cocktail bars,tea rooms,1
+cocktail bars,thai,1
+cocktail bars,venezuelan,1
+cocktail bars,vietnamese,1
+cocktail bars,wine tasting room,1
+cocktail bars,wineries,1
+cocktail bars,wraps,1
+coffee & tea,cuban,1
+coffee & tea,custom cakes,1
+coffee & tea,diners,1
+coffee & tea,ethnic food,1
+coffee & tea,flowers & gifts,1
+coffee & tea,food court,1
+coffee & tea,fruits & veggies,1
+coffee & tea,gastropubs,1
+coffee & tea,german,1
+coffee & tea,gift shops,1
+coffee & tea,grocery,1
+coffee & tea,honduran,1
+coffee & tea,lounges,1
+coffee & tea,macarons,1
+coffee & tea,mags,1
+coffee & tea,modern european,1
+coffee & tea,music & video,1
+coffee & tea,performing arts,1
+coffee & tea,persian/iranian,1
+coffee & tea,pizza,1
+coffee & tea,social clubs,1
+coffee & tea,soul food,1
+coffee & tea,soup,1
+coffee & tea,souvenir shops,1
+coffee & tea,steakhouses,1
+coffee & tea,tabletop games,1
+coffee & tea,tacos,1
+coffee & tea,tapas bars,1
+coffee & tea,vitamins & supplements,1
+coffee & tea,wedding planning,1
+coffee roasteries,internet cafes,1
+coffee roasteries,juice bars & smoothies,1
+coffee roasteries,latin american,1
+colombian,pizza,1
+colombian,spanish,1
+comfort food,ethiopian,1
+comfort food,fish & chips,1
+comfort food,food stands,1
+comfort food,food trucks,1
+comfort food,gastropubs,1
+comfort food,grocery,1
+comfort food,ice cream & frozen yogurt,1
+comfort food,italian,1
+comfort food,local flavor,1
+comfort food,music venues,1
+comfort food,party & event planning,1
+comfort food,patisserie/cake shop,1
+comfort food,pizza,1
+comfort food,shaved ice,1
+comfort food,sports bars,1
+comfort food,tapas bars,1
+comfort food,venues & event spaces,1
+comfort food,waffles,1
+community service/non-profit,food,1
+community service/non-profit,food delivery services,1
+community service/non-profit,local services,1
+community service/non-profit,restaurants,1
+community service/non-profit,soul food,1
+community service/non-profit,southern,1
+convenience stores,discount store,1
+convenience stores,donuts,1
+convenience stores,event planning & services,1
+convenience stores,fast food,1
+convenience stores,filipino,1
+convenience stores,halal,1
+convenience stores,imported food,1
+convenience stores,kebab,1
+convenience stores,meat shops,1
+convenience stores,mediterranean,1
+convenience stores,middle eastern,1
+convenience stores,nightlife,1
+convenience stores,pizza,1
+convenience stores,soul food,1
+convenience stores,soup,1
+convenience stores,southern,1
+convenience stores,souvenir shops,1
+convenience stores,sports bars,1
+convenience stores,tobacco shops,1
+convenience stores,trinidadian,1
+convenience stores,vape shops,1
+convenience stores,vegan,1
+convenience stores,vegetarian,1
+cooking classes,cooking schools,1
+cooking classes,do-it-yourself food,1
+cooking classes,education,1
+cooking classes,event planning & services,1
+cooking classes,food,1
+cooking classes,food tours,1
+cooking classes,hotels & travel,1
+cooking classes,local flavor,1
+cooking classes,party & event planning,1
+cooking classes,restaurants,1
+cooking classes,shopping,1
+cooking classes,specialty schools,1
+cooking classes,tours,1
+cooking classes,travel services,1
+cooking classes,venues & event spaces,1
+cooking schools,do-it-yourself food,1
+cooking schools,event planning & services,1
+cooking schools,food,1
+cooking schools,food tours,1
+cooking schools,local flavor,1
+cooking schools,party & event planning,1
+cooking schools,shopping,1
+cooking schools,travel services,1
+cooking schools,venues & event spaces,1
+country clubs,nightlife,1
+country clubs,restaurants,1
+country clubs,southern,1
+country clubs,wine bars,1
+creperies,delis,1
+creperies,food court,1
+creperies,gelato,1
+creperies,ice cream & frozen yogurt,1
+creperies,internet cafes,1
+creperies,italian,1
+creperies,juice bars & smoothies,1
+creperies,local flavor,1
+creperies,lounges,1
+creperies,party & event planning,1
+creperies,pubs,1
+creperies,sandwiches,1
+creperies,seafood,1
+creperies,vegetarian,1
+creperies,wedding planning,1
+creperies,wine & spirits,1
+creperies,wine bars,1
+cuban,food delivery services,1
+cuban,food trucks,1
+cuban,honduran,1
+cuban,personal chefs,1
+cuban,pop-up restaurants,1
+cuban,salad,1
+cuban,seafood,1
+cuban,soup,1
+cuban,venues & event spaces,1
+cultural center,landmarks & historical buildings,1
+cultural center,local flavor,1
+cultural center,parks,1
+cultural center,pizza,1
+cultural center,public services & government,1
+cultural center,restaurants,1
+cupcakes,desserts,1
+cupcakes,event planning & services,1
+cupcakes,italian,1
+cupcakes,lounges,1
+cupcakes,nightlife,1
+cupcakes,shopping,1
+cupcakes,southern,1
+cupcakes,specialty food,1
+cupcakes,tapas/small plates,1
+cupcakes,wine bars,1
+cupcakes,wine tasting room,1
+cupcakes,wineries,1
+custom cakes,donuts,1
+custom cakes,hot dogs,1
+custom cakes,patisserie/cake shop,1
+custom cakes,pizza,1
+custom cakes,specialty food,1
+dance clubs,event planning & services,1
+dance clubs,french,1
+dance clubs,italian,1
+dance clubs,new mexican cuisine,1
+dance clubs,party & event planning,1
+dance clubs,pubs,1
+dance clubs,sports bars,1
+dance clubs,sushi bars,1
+dance clubs,tapas/small plates,1
+dance clubs,venues & event spaces,1
+dance clubs,wine & spirits,1
+day spas,event planning & services,1
+day spas,hair salons,1
+day spas,hotels,1
+day spas,hotels & travel,1
+day spas,restaurants,1
+day spas,skin care,1
+delicatessen,desserts,1
+delicatessen,sandwiches,1
+delicatessen,specialty food,1
+delis,discount store,1
+delis,dive bars,1
+delis,french,1
+delis,ice cream & frozen yogurt,1
+delis,local flavor,1
+delis,mediterranean,1
+delis,middle eastern,1
+delis,party & event planning,1
+delis,party supplies,1
+delis,pubs,1
+delis,tabletop games,1
+delis,tapas bars,1
+delis,themed cafes,1
+delis,tobacco shops,1
+delis,trinidadian,1
+delis,vegetarian,1
+delis,venues & event spaces,1
+delis,vietnamese,1
+delis,wholesale stores,1
+delis,wine bars,1
+desserts,diners,1
+desserts,dive bars,1
+desserts,falafel,1
+desserts,filipino,1
+desserts,fish & chips,1
+desserts,flowers & gifts,1
+desserts,fondue,1
+desserts,food delivery services,1
+desserts,gastropubs,1
+desserts,gift shops,1
+desserts,hot dogs,1
+desserts,internet cafes,1
+desserts,latin american,1
+desserts,live/raw food,1
+desserts,music venues,1
+desserts,noodles,1
+desserts,organic stores,1
+desserts,party & event planning,1
+desserts,pasta shops,1
+desserts,patisserie/cake shop,1
+desserts,performing arts,1
+desserts,pop-up restaurants,1
+desserts,pubs,1
+desserts,religious organizations,1
+desserts,sports bars,1
+desserts,steakhouses,1
+desserts,street vendors,1
+desserts,tapas bars,1
+desserts,tea rooms,1
+desserts,venues & event spaces,1
+desserts,vietnamese,1
+desserts,waffles,1
+dim sum,event planning & services,1
+dim sum,food,1
+dim sum,food trucks,1
+dim sum,noodles,1
+dim sum,pop-up restaurants,1
+dim sum,szechuan,1
+dim sum,taiwanese,1
+dim sum,thai,1
+dim sum,vegan,1
+diners,donuts,1
+diners,fast food,1
+diners,fish & chips,1
+diners,gastropubs,1
+diners,health markets,1
+diners,japanese,1
+diners,latin american,1
+diners,local flavor,1
+diners,mexican,1
+diners,music venues,1
+diners,pubs,1
+diners,seafood markets,1
+diners,soup,1
+diners,sports bars,1
+diners,sushi bars,1
+diners,szechuan,1
+diners,tacos,1
+diners,vegan,1
+diners,venues & event spaces,1
+diners,wine bars,1
+discount store,food,1
+discount store,restaurants,1
+discount store,shopping,1
+discount store,wine & spirits,1
+distilleries,food,1
+distilleries,restaurants,1
+distilleries,southern,1
+dive bars,event planning & services,1
+dive bars,food delivery services,1
+dive bars,irish,1
+dive bars,irish pub,1
+dive bars,jazz & blues,1
+dive bars,pop-up restaurants,1
+dive bars,shopping,1
+dive bars,soul food,1
+dive bars,southern,1
+dive bars,tapas bars,1
+dive bars,tex-mex,1
+dive bars,venues & event spaces,1
+dive bars,vietnamese,1
+dive bars,whiskey bars,1
+do-it-yourself food,education,1
+do-it-yourself food,event planning & services,1
+do-it-yourself food,food tours,1
+do-it-yourself food,hotels & travel,1
+do-it-yourself food,nightlife,1
+do-it-yourself food,party & event planning,1
+do-it-yourself food,salad,1
+do-it-yourself food,sandwiches,1
+do-it-yourself food,seafood,1
+do-it-yourself food,seafood markets,1
+do-it-yourself food,shopping,1
+do-it-yourself food,specialty food,1
+do-it-yourself food,specialty schools,1
+do-it-yourself food,tours,1
+do-it-yourself food,travel services,1
+do-it-yourself food,venues & event spaces,1
+do-it-yourself food,wine & spirits,1
+donuts,flowers & gifts,1
+donuts,food delivery services,1
+donuts,food trucks,1
+donuts,gas stations,1
+donuts,gift shops,1
+donuts,gluten-free,1
+donuts,ice cream & frozen yogurt,1
+donuts,italian,1
+donuts,jazz & blues,1
+donuts,juice bars & smoothies,1
+donuts,local flavor,1
+donuts,nightlife,1
+donuts,seafood,1
+donuts,shopping,1
+donuts,souvenir shops,1
+donuts,specialty food,1
+donuts,vegetarian,1
+donuts,waffles,1
+drive-thru bars,food,1
+drive-thru bars,juice bars & smoothies,1
+drive-thru bars,local flavor,1
+drugstores,health & medical,1
+drugstores,nutritionists,1
+drugstores,restaurants,1
+drugstores,shopping,1
+drugstores,soul food,1
+eatertainment,filipino,1
+eatertainment,pool halls,1
+eatertainment,sandwiches,1
+eatertainment,sports bars,1
+education,event planning & services,1
+education,food tours,1
+education,local flavor,1
+education,nightlife,1
+education,party & event planning,1
+education,shopping,1
+education,travel services,1
+education,venues & event spaces,1
+education,wine & spirits,1
+education,wine bars,1
+education,wine tasting room,1
+education,wineries,1
+egyptian,mediterranean,1
+egyptian,middle eastern,1
+egyptian,restaurants,1
+electronics repair,food,1
+electronics repair,grocery,1
+electronics repair,local services,1
+electronics repair,restaurants,1
+electronics repair,soul food,1
+empanadas,food trucks,1
+empanadas,mexican,1
+empanadas,nightlife,1
+empanadas,salad,1
+empanadas,soup,1
+empanadas,southern,1
+empanadas,spanish,1
+empanadas,street vendors,1
+empanadas,tacos,1
+empanadas,tex-mex,1
+empanadas,wine bars,1
+ethiopian,seafood,1
+ethiopian,vegan,1
+ethnic food,grocery,1
+ethnic food,hookah bars,1
+ethnic food,korean,1
+ethnic food,local flavor,1
+ethnic food,middle eastern,1
+ethnic food,modern european,1
+ethnic food,party & event planning,1
+ethnic food,pizza,1
+ethnic food,polish,1
+ethnic food,russian,1
+ethnic food,tacos,1
+ethnic food,tex-mex,1
+ethnic food,ukrainian,1
+ethnic food,vegetarian,1
+ethnic food,venues & event spaces,1
+ethnic grocery,food,1
+ethnic grocery,international grocery,1
+ethnic grocery,middle eastern,1
+ethnic grocery,restaurants,1
+event planning & services,farmers market,1
+event planning & services,festivals,1
+event planning & services,fish & chips,1
+event planning & services,fitness & instruction,1
+event planning & services,flowers & gifts,1
+event planning & services,food court,1
+event planning & services,food tours,1
+event planning & services,fruits & veggies,1
+event planning & services,gyms,1
+event planning & services,hair salons,1
+event planning & services,home & garden,1
+event planning & services,ice cream & frozen yogurt,1
+event planning & services,imported food,1
+event planning & services,indian,1
+event planning & services,juice bars & smoothies,1
+event planning & services,karaoke,1
+event planning & services,kitchen & bath,1
+event planning & services,kosher,1
+event planning & services,mags,1
+event planning & services,mediterranean,1
+event planning & services,music & video,1
+event planning & services,organic stores,1
+event planning & services,pakistani,1
+event planning & services,party supplies,1
+event planning & services,pasta shops,1
+event planning & services,peruvian,1
+event planning & services,photographers,1
+event planning & services,pop-up restaurants,1
+event planning & services,religious organizations,1
+event planning & services,shaved ice,1
+event planning & services,skin care,1
+event planning & services,smokehouse,1
+event planning & services,specialty schools,1
+event planning & services,supernatural readings,1
+event planning & services,sushi bars,1
+event planning & services,tacos,1
+event planning & services,tiki bars,1
+event planning & services,travel services,1
+event planning & services,vietnamese,1
+event planning & services,wholesale stores,1
+event planning & services,wraps,1
+event planning & services,yelp events,1
+falafel,food,1
+falafel,greek,1
+falafel,kebab,1
+falafel,sandwiches,1
+farmers market,food court,1
+farmers market,food stands,1
+farmers market,grocery,1
+farmers market,home & garden,1
+farmers market,local flavor,1
+farmers market,meat shops,1
+farmers market,nightlife,1
+farmers market,nurseries & gardening,1
+farmers market,salad,1
+farmers market,seafood,1
+farmers market,shopping,1
+farmers market,spanish,1
+farmers market,tapas/small plates,1
+fashion,local services,1
+fashion,professional services,1
+fashion,restaurants,1
+fashion,shopping,1
+fashion,sporting goods,1
+fashion,sports wear,1
+fast food,food court,1
+fast food,grocery,1
+fast food,imported food,1
+fast food,japanese,1
+fast food,juice bars & smoothies,1
+fast food,local flavor,1
+fast food,meat shops,1
+fast food,mediterranean,1
+fast food,shaved snow,1
+fast food,sports bars,1
+fast food,steakhouses,1
+fast food,sushi bars,1
+fast food,vegan,1
+fast food,vegetarian,1
+festivals,food stands,1
+festivals,jazz & blues,1
+festivals,specialty food,1
+festivals,street vendors,1
+festivals,vegetarian,1
+festivals,venues & event spaces,1
+filipino,food court,1
+filipino,food stands,1
+filipino,food trucks,1
+filipino,grocery,1
+filipino,imported food,1
+filipino,nightlife,1
+filipino,sandwiches,1
+filipino,wine & spirits,1
+fish & chips,french,1
+fish & chips,pizza,1
+fish & chips,sandwiches,1
+fish & chips,soul food,1
+fish & chips,vegetarian,1
+fish & chips,wine bars,1
+fitness & instruction,golf,1
+fitness & instruction,golf equipment,1
+fitness & instruction,golf lessons,1
+fitness & instruction,hotels,1
+fitness & instruction,hotels & travel,1
+fitness & instruction,seafood,1
+fitness & instruction,shopping,1
+fitness & instruction,sporting goods,1
+fitness & instruction,steakhouses,1
+flowers & gifts,macarons,1
+flowers & gifts,mags,1
+flowers & gifts,music & video,1
+flowers & gifts,souvenir shops,1
+flowers & gifts,specialty food,1
+flowers & gifts,waffles,1
+fondue,modern european,1
+fondue,nightlife,1
+fondue,salad,1
+fondue,wine & spirits,1
+food,food tours,1
+food,greek,1
+food,halal,1
+food,herbs & spices,1
+food,home & garden,1
+food,honduran,1
+food,hotels & travel,1
+food,irish,1
+food,karaoke,1
+food,kebab,1
+food,live/raw food,1
+food,mags,1
+food,music & video,1
+food,musicians,1
+food,new mexican cuisine,1
+food,nurseries & gardening,1
+food,party supplies,1
+food,performing arts,1
+food,persian/iranian,1
+food,piano bars,1
+food,polish,1
+food,pool halls,1
+food,popcorn shops,1
+food,religious organizations,1
+food,russian,1
+food,shaved snow,1
+food,social clubs,1
+food,tabletop games,1
+food,tiki bars,1
+food,tobacco shops,1
+food,tours,1
+food,travel services,1
+food,trinidadian,1
+food,ukrainian,1
+food,vape shops,1
+food,venezuelan,1
+food,vitamins & supplements,1
+food,whiskey bars,1
+food,yelp events,1
+food court,food delivery services,1
+food court,food stands,1
+food court,jazz & blues,1
+food court,juice bars & smoothies,1
+food court,korean,1
+food court,pop-up restaurants,1
+food court,sandwiches,1
+food court,shopping,1
+food court,soul food,1
+food court,specialty food,1
+food court,thai,1
+food delivery services,food stands,1
+food delivery services,grocery,1
+food delivery services,jazz & blues,1
+food delivery services,juice bars & smoothies,1
+food delivery services,latin american,1
+food delivery services,local services,1
+food delivery services,mediterranean,1
+food delivery services,pasta shops,1
+food delivery services,pop-up restaurants,1
+food delivery services,shaved ice,1
+food delivery services,soup,1
+food delivery services,sports bars,1
+food delivery services,steakhouses,1
+food delivery services,sushi bars,1
+food delivery services,vegetarian,1
+food delivery services,wedding planning,1
+food delivery services,wineries,1
+food stands,hawaiian,1
+food stands,home & garden,1
+food stands,indian,1
+food stands,japanese,1
+food stands,jazz & blues,1
+food stands,latin american,1
+food stands,music venues,1
+food stands,nightlife,1
+food stands,noodles,1
+food stands,nurseries & gardening,1
+food stands,personal chefs,1
+food stands,poke,1
+food stands,pop-up restaurants,1
+food stands,sandwiches,1
+food stands,shopping,1
+food stands,specialty food,1
+food stands,sushi bars,1
+food stands,tacos,1
+food stands,tex-mex,1
+food stands,vegetarian,1
+food stands,venezuelan,1
+food stands,wedding planning,1
+food tours,hotels & travel,1
+food tours,local flavor,1
+food tours,party & event planning,1
+food tours,restaurants,1
+food tours,shopping,1
+food tours,specialty schools,1
+food tours,tours,1
+food tours,travel services,1
+food tours,venues & event spaces,1
+food trucks,gluten-free,1
+food trucks,health & medical,1
+food trucks,health markets,1
+food trucks,herbal shops,1
+food trucks,ice cream & frozen yogurt,1
+food trucks,juice bars & smoothies,1
+food trucks,korean,1
+food trucks,local flavor,1
+food trucks,mediterranean,1
+food trucks,middle eastern,1
+food trucks,nightlife,1
+food trucks,personal chefs,1
+food trucks,salad,1
+food trucks,seafood markets,1
+food trucks,smokehouse,1
+food trucks,thai,1
+food trucks,venezuelan,1
+food trucks,vietnamese,1
+food trucks,wedding planning,1
+food trucks,yelp events,1
+french,gastropubs,1
+french,gay bars,1
+french,gelato,1
+french,german,1
+french,jazz & blues,1
+french,mediterranean,1
+french,personal chefs,1
+french,soul food,1
+french,soup,1
+french,tea rooms,1
+french,vegan,1
+french,vegetarian,1
+gas stations,grocery,1
+gas stations,sandwiches,1
+gas stations,seafood,1
+gas stations,southern,1
+gastropubs,gluten-free,1
+gastropubs,hawaiian,1
+gastropubs,hot dogs,1
+gastropubs,irish,1
+gastropubs,irish pub,1
+gastropubs,jazz & blues,1
+gastropubs,local flavor,1
+gastropubs,lounges,1
+gastropubs,sandwiches,1
+gastropubs,tapas bars,1
+gastropubs,tiki bars,1
+gastropubs,vegetarian,1
+gastropubs,vietnamese,1
+gay bars,lounges,1
+gelato,internet cafes,1
+gelato,lounges,1
+gelato,nightlife,1
+gelato,patisserie/cake shop,1
+gelato,pizza,1
+gelato,vegan,1
+gelato,wine bars,1
+german,seafood,1
+gift shops,macarons,1
+gift shops,souvenir shops,1
+gift shops,specialty food,1
+gift shops,waffles,1
+gluten-free,haitian,1
+gluten-free,hawaiian,1
+gluten-free,health & medical,1
+gluten-free,herbal shops,1
+gluten-free,japanese,1
+gluten-free,korean,1
+gluten-free,organic stores,1
+gluten-free,pasta shops,1
+gluten-free,poke,1
+gluten-free,shopping,1
+gluten-free,soup,1
+gluten-free,spanish,1
+gluten-free,tapas bars,1
+gluten-free,tex-mex,1
+gluten-free,vietnamese,1
+gluten-free,vitamins & supplements,1
+gluten-free,wine & spirits,1
+gluten-free,wine bars,1
+gluten-free,wineries,1
+gluten-free,wraps,1
+golf,golf equipment,1
+golf,golf lessons,1
+golf,parks,1
+golf,performing arts,1
+golf,shopping,1
+golf,sporting goods,1
+golf equipment,golf lessons,1
+golf equipment,restaurants,1
+golf equipment,shopping,1
+golf equipment,sporting goods,1
+golf lessons,restaurants,1
+golf lessons,shopping,1
+golf lessons,sporting goods,1
+greek,hookah bars,1
+greek,juice bars & smoothies,1
+greek,pizza,1
+greek,salad,1
+greek,vegetarian,1
+grocery,imported food,1
+grocery,international grocery,1
+grocery,latin american,1
+grocery,local services,1
+grocery,meat shops,1
+grocery,party & event planning,1
+grocery,party supplies,1
+grocery,pizza,1
+grocery,soup,1
+grocery,tobacco shops,1
+grocery,vegetarian,1
+grocery,venues & event spaces,1
+grocery,wholesale stores,1
+gyms,hotels,1
+gyms,hotels & travel,1
+gyms,seafood,1
+gyms,steakhouses,1
+hair salons,hotels,1
+hair salons,hotels & travel,1
+hair salons,restaurants,1
+hair salons,skin care,1
+haitian,vietnamese,1
+halal,indian,1
+halal,lebanese,1
+halal,pakistani,1
+halal,salad,1
+halal,sandwiches,1
+halal,vegan,1
+hawaiian,nightlife,1
+hawaiian,noodles,1
+hawaiian,tiki bars,1
+hawaiian,vegan,1
+health & medical,health markets,1
+health & medical,juice bars & smoothies,1
+health & medical,nutritionists,1
+health & medical,salad,1
+health & medical,shopping,1
+health & medical,soul food,1
+health & medical,specialty food,1
+health & medical,wraps,1
+health markets,herbal shops,1
+health markets,salad,1
+health markets,shopping,1
+health markets,vitamins & supplements,1
+health markets,wraps,1
+herbal shops,juice bars & smoothies,1
+herbal shops,salad,1
+herbal shops,specialty food,1
+herbal shops,wraps,1
+herbs & spices,restaurants,1
+herbs & spices,seafood,1
+herbs & spices,specialty food,1
+historical tours,hotels & travel,1
+historical tours,landmarks & historical buildings,1
+historical tours,local flavor,1
+historical tours,public services & government,1
+historical tours,restaurants,1
+historical tours,tours,1
+historical tours,walking tours,1
+holiday decorations,home & garden,1
+holiday decorations,home decor,1
+holiday decorations,home services,1
+holiday decorations,restaurants,1
+holiday decorations,shopping,1
+holiday decorations,tapas/small plates,1
+holiday decorations,tree services,1
+home & garden,home decor,1
+home & garden,home services,1
+home & garden,kitchen & bath,1
+home & garden,local flavor,1
+home & garden,nurseries & gardening,1
+home & garden,seafood,1
+home & garden,soul food,1
+home & garden,specialty food,1
+home & garden,tapas/small plates,1
+home & garden,tree services,1
+home decor,home services,1
+home decor,restaurants,1
+home decor,shopping,1
+home decor,tapas/small plates,1
+home decor,tree services,1
+home services,nightlife,1
+home services,pizza,1
+home services,real estate agents,1
+home services,shared office spaces,1
+home services,shopping centers,1
+home services,tapas/small plates,1
+home services,tree services,1
+honduran,mexican,1
+honduran,pop-up restaurants,1
+honduran,spanish,1
+hookah bars,internet cafes,1
+hookah bars,kebab,1
+hookah bars,lebanese,1
+hookah bars,sandwiches,1
+hookah bars,seafood,1
+hookah bars,specialty food,1
+hookah bars,turkish,1
+hookah bars,wine & spirits,1
+hot dogs,juice bars & smoothies,1
+hot dogs,lounges,1
+hot dogs,nightlife,1
+hot dogs,patisserie/cake shop,1
+hot dogs,sandwiches,1
+hot dogs,seafood,1
+hot dogs,shaved ice,1
+hot dogs,specialty food,1
+hot dogs,tapas/small plates,1
+hot dogs,vegan,1
+hot dogs,vegetarian,1
+hot dogs,wine & spirits,1
+hotels,italian,1
+hotels,live/raw food,1
+hotels,peruvian,1
+hotels,resorts,1
+hotels,salad,1
+hotels,skin care,1
+hotels,steakhouses,1
+hotels,tapas/small plates,1
+hotels & travel,italian,1
+hotels & travel,landmarks & historical buildings,1
+hotels & travel,live/raw food,1
+hotels & travel,personal shopping,1
+hotels & travel,peruvian,1
+hotels & travel,public services & government,1
+hotels & travel,salad,1
+hotels & travel,skin care,1
+hotels & travel,tapas/small plates,1
+hotels & travel,travel agents,1
+hotels & travel,walking tours,1
+hotels & travel,wine bars,1
+ice cream & frozen yogurt,local flavor,1
+ice cream & frozen yogurt,patisserie/cake shop,1
+ice cream & frozen yogurt,salad,1
+ice cream & frozen yogurt,shaved snow,1
+ice cream & frozen yogurt,street vendors,1
+imported food,korean,1
+imported food,seafood,1
+imported food,vietnamese,1
+imported food,wine & spirits,1
+indian,italian,1
+indian,mediterranean,1
+indian,middle eastern,1
+indian,party & event planning,1
+indian,pizza,1
+indian,seafood,1
+indian,shopping,1
+indian,wine bars,1
+indoor playcentre,kids activities,1
+indoor playcentre,pizza,1
+indoor playcentre,restaurants,1
+international grocery,latin american,1
+international grocery,middle eastern,1
+internet cafes,italian,1
+internet cafes,middle eastern,1
+internet cafes,nightlife,1
+internet cafes,seafood,1
+irish,seafood,1
+irish,southern,1
+irish,sports bars,1
+irish,wine & spirits,1
+irish pub,pubs,1
+irish pub,sports bars,1
+italian,jazz & blues,1
+italian,meat shops,1
+italian,new mexican cuisine,1
+italian,pakistani,1
+italian,personal chefs,1
+italian,pool halls,1
+italian,seafood markets,1
+italian,shopping,1
+italian,soup,1
+italian,swimming pools,1
+italian,venues & event spaces,1
+italian,wholesale stores,1
+italian,wine tasting room,1
+japanese,japanese curry,1
+japanese,latin american,1
+japanese,live/raw food,1
+japanese,lounges,1
+japanese,mexican,1
+japanese,new mexican cuisine,1
+japanese,pan asian,1
+japanese,peruvian,1
+japanese,shanghainese,1
+japanese,soul food,1
+japanese,tacos,1
+japanese,taiwanese,1
+japanese,thai,1
+japanese,vietnamese,1
+japanese,wine bars,1
+japanese curry,noodles,1
+japanese curry,pop-up restaurants,1
+japanese curry,ramen,1
+japanese curry,restaurants,1
+japanese curry,seafood,1
+jazz & blues,juice bars & smoothies,1
+jazz & blues,mexican,1
+jazz & blues,pubs,1
+jazz & blues,sandwiches,1
+jazz & blues,seafood,1
+jazz & blues,specialty food,1
+jazz & blues,steakhouses,1
+jazz & blues,vegetarian,1
+juice bars & smoothies,kosher,1
+juice bars & smoothies,lounges,1
+juice bars & smoothies,mexican,1
+juice bars & smoothies,middle eastern,1
+juice bars & smoothies,modern european,1
+juice bars & smoothies,music venues,1
+juice bars & smoothies,pizza,1
+juice bars & smoothies,religious organizations,1
+juice bars & smoothies,seafood,1
+juice bars & smoothies,shaved ice,1
+juice bars & smoothies,shopping,1
+juice bars & smoothies,soup,1
+juice bars & smoothies,tea rooms,1
+juice bars & smoothies,turkish,1
+juice bars & smoothies,vitamins & supplements,1
+juice bars & smoothies,wine & spirits,1
+karaoke,local flavor,1
+karaoke,noodles,1
+karaoke,ramen,1
+karaoke,sports bars,1
+karaoke,venues & event spaces,1
+kebab,nightlife,1
+kebab,salad,1
+kebab,seafood,1
+kebab,vegan,1
+kids activities,pizza,1
+kids activities,restaurants,1
+kitchen & bath,restaurants,1
+kitchen & bath,seafood,1
+kitchen & bath,shopping,1
+kitchen & bath,soul food,1
+korean,soup,1
+korean,specialty food,1
+korean,vegan,1
+korean,vegetarian,1
+korean,vietnamese,1
+kosher,middle eastern,1
+kosher,organic stores,1
+kosher,religious organizations,1
+kosher,salad,1
+kosher,sandwiches,1
+kosher,vegan,1
+landmarks & historical buildings,parks,1
+landmarks & historical buildings,pizza,1
+landmarks & historical buildings,tours,1
+landmarks & historical buildings,walking tours,1
+laotian,latin american,1
+laotian,mexican,1
+laotian,restaurants,1
+latin american,nicaraguan,1
+latin american,personal chefs,1
+latin american,pizza,1
+latin american,salvadoran,1
+latin american,sandwiches,1
+latin american,southern,1
+latin american,specialty food,1
+latin american,steakhouses,1
+latin american,street vendors,1
+latin american,szechuan,1
+latin american,themed cafes,1
+latin american,trinidadian,1
+latin american,wine bars,1
+lebanese,nightlife,1
+lebanese,salad,1
+lebanese,sandwiches,1
+live/raw food,local flavor,1
+live/raw food,salad,1
+live/raw food,sandwiches,1
+live/raw food,sports bars,1
+live/raw food,taiwanese,1
+live/raw food,venues & event spaces,1
+live/raw food,wine bars,1
+local flavor,mediterranean,1
+local flavor,mexican,1
+local flavor,musicians,1
+local flavor,nurseries & gardening,1
+local flavor,parks,1
+local flavor,party & event planning,1
+local flavor,personal shopping,1
+local flavor,pretzels,1
+local flavor,pubs,1
+local flavor,shaved ice,1
+local flavor,smokehouse,1
+local flavor,specialty schools,1
+local flavor,sports bars,1
+local flavor,steakhouses,1
+local flavor,street vendors,1
+local flavor,tapas bars,1
+local flavor,tiki bars,1
+local flavor,travel agents,1
+local flavor,walking tours,1
+local flavor,yelp events,1
+local services,professional services,1
+local services,shopping,1
+local services,southern,1
+local services,sporting goods,1
+local services,sports wear,1
+lounges,new mexican cuisine,1
+lounges,photographers,1
+lounges,salad,1
+lounges,sushi bars,1
+lounges,turkish,1
+lounges,vegetarian,1
+lounges,wedding planning,1
+lounges,wine tasting room,1
+lounges,wineries,1
+macarons,shopping,1
+macarons,vegan,1
+macarons,waffles,1
+mags,vegetarian,1
+malaysian,restaurants,1
+mass media,mexican,1
+mass media,restaurants,1
+meat shops,pizza,1
+meat shops,seafood,1
+meat shops,shopping,1
+meat shops,steakhouses,1
+meat shops,street vendors,1
+meat shops,trinidadian,1
+meat shops,wine & spirits,1
+mediterranean,pasta shops,1
+mediterranean,pubs,1
+mediterranean,southern,1
+mexican,modern european,1
+mexican,pizza,1
+mexican,pubs,1
+mexican,ramen,1
+mexican,sandwiches,1
+mexican,soup,1
+mexican,southern,1
+mexican,sushi bars,1
+mexican,tapas bars,1
+mexican,tiki bars,1
+middle eastern,wine bars,1
+modern european,polish,1
+modern european,russian,1
+modern european,sandwiches,1
+modern european,seafood,1
+modern european,specialty food,1
+modern european,steakhouses,1
+modern european,tapas/small plates,1
+modern european,ukrainian,1
+modern european,wine & spirits,1
+modern european,wine bars,1
+moroccan,restaurants,1
+music & video,vegetarian,1
+music venues,musicians,1
+music venues,party & event planning,1
+music venues,piano bars,1
+music venues,pizza,1
+music venues,pool halls,1
+music venues,pop-up restaurants,1
+music venues,salad,1
+music venues,shopping,1
+music venues,street vendors,1
+music venues,tiki bars,1
+music venues,whiskey bars,1
+music venues,wine bars,1
+music venues,wraps,1
+musicians,pubs,1
+musicians,venues & event spaces,1
+new mexican cuisine,ramen,1
+new mexican cuisine,tex-mex,1
+new mexican cuisine,wine & spirits,1
+nicaraguan,restaurants,1
+nightlife,pasta shops,1
+nightlife,personal chefs,1
+nightlife,photographers,1
+nightlife,pop-up shops,1
+nightlife,real estate,1
+nightlife,shopping centers,1
+nightlife,social clubs,1
+nightlife,specialty schools,1
+nightlife,street vendors,1
+nightlife,swimming pools,1
+nightlife,taiwanese,1
+nightlife,tea rooms,1
+nightlife,themed cafes,1
+nightlife,tours,1
+nightlife,turkish,1
+nightlife,venezuelan,1
+nightlife,wedding planning,1
+noodles,pan asian,1
+noodles,poke,1
+noodles,salad,1
+noodles,shanghainese,1
+noodles,soul food,1
+noodles,soup,1
+noodles,szechuan,1
+noodles,taiwanese,1
+noodles,thai,1
+noodles,vegan,1
+nurseries & gardening,restaurants,1
+nurseries & gardening,shopping,1
+nurseries & gardening,specialty food,1
+nutritionists,restaurants,1
+nutritionists,shopping,1
+nutritionists,soul food,1
+organic stores,religious organizations,1
+organic stores,salad,1
+organic stores,soup,1
+organic stores,vegan,1
+organic stores,vegetarian,1
+pakistani,party & event planning,1
+pakistani,pizza,1
+pakistani,thai,1
+pakistani,vegetarian,1
+pan asian,salad,1
+pan asian,shanghainese,1
+pan asian,southern,1
+pan asian,thai,1
+pan asian,vietnamese,1
+parks,performing arts,1
+parks,pizza,1
+parks,public services & government,1
+party & event planning,party supplies,1
+party & event planning,pizza,1
+party & event planning,resorts,1
+party & event planning,sandwiches,1
+party & event planning,shaved ice,1
+party & event planning,soul food,1
+party & event planning,specialty food,1
+party & event planning,specialty schools,1
+party & event planning,tapas/small plates,1
+party & event planning,tours,1
+party & event planning,travel services,1
+party & event planning,wholesale stores,1
+party supplies,pizza,1
+party supplies,restaurants,1
+party supplies,shopping,1
+party supplies,wholesale stores,1
+pasta shops,pizza,1
+pasta shops,salad,1
+pasta shops,seafood,1
+pasta shops,vegan,1
+pasta shops,wine bars,1
+patisserie/cake shop,specialty food,1
+patisserie/cake shop,waffles,1
+performing arts,sandwiches,1
+persian/iranian,restaurants,1
+persian/iranian,shopping,1
+personal chefs,pop-up restaurants,1
+personal chefs,salad,1
+personal chefs,soup,1
+personal chefs,vegan,1
+personal chefs,vegetarian,1
+personal chefs,venues & event spaces,1
+personal chefs,wedding planning,1
+personal chefs,wine bars,1
+personal shopping,restaurants,1
+personal shopping,shopping,1
+personal shopping,travel agents,1
+personal shopping,travel services,1
+peruvian,salvadoran,1
+peruvian,seafood,1
+peruvian,vegan,1
+photographers,restaurants,1
+photographers,tapas/small plates,1
+piano bars,sandwiches,1
+piano bars,seafood,1
+piano bars,wine & spirits,1
+pizza,pool halls,1
+pizza,public services & government,1
+pizza,real estate,1
+pizza,real estate agents,1
+pizza,shared office spaces,1
+pizza,shopping centers,1
+pizza,tacos,1
+pizza,tapas bars,1
+pizza,tapas/small plates,1
+pizza,tiki bars,1
+pizza,wineries,1
+poke,ramen,1
+poke,vegan,1
+polish,restaurants,1
+polish,russian,1
+polish,specialty food,1
+polish,ukrainian,1
+pool halls,pubs,1
+pool halls,wine & spirits,1
+pop-up restaurants,pop-up shops,1
+pop-up restaurants,pubs,1
+pop-up restaurants,salad,1
+pop-up restaurants,shopping,1
+pop-up restaurants,szechuan,1
+pop-up restaurants,taiwanese,1
+pop-up restaurants,tex-mex,1
+pop-up restaurants,thai,1
+pop-up restaurants,tiki bars,1
+pop-up restaurants,vietnamese,1
+pop-up restaurants,wedding planning,1
+pop-up restaurants,wine bars,1
+pop-up shops,soul food,1
+popcorn shops,restaurants,1
+popcorn shops,specialty food,1
+pretzels,tiki bars,1
+professional services,restaurants,1
+professional services,shopping,1
+professional services,sporting goods,1
+professional services,sports wear,1
+public services & government,tours,1
+public services & government,walking tours,1
+pubs,shopping,1
+pubs,shopping centers,1
+pubs,southern,1
+pubs,specialty food,1
+pubs,tapas/small plates,1
+pubs,vegetarian,1
+pubs,whiskey bars,1
+pubs,wine bars,1
+ramen,seafood,1
+ramen,soul food,1
+ramen,tacos,1
+ramen,tapas bars,1
+ramen,teppanyaki,1
+ramen,vietnamese,1
+real estate,real estate agents,1
+real estate,shared office spaces,1
+real estate,shopping,1
+real estate,shopping centers,1
+real estate agents,restaurants,1
+real estate agents,shared office spaces,1
+real estate agents,shopping,1
+real estate agents,shopping centers,1
+religious organizations,restaurants,1
+resorts,venues & event spaces,1
+restaurants,russian,1
+restaurants,salvadoran,1
+restaurants,shanghainese,1
+restaurants,shared office spaces,1
+restaurants,shaved snow,1
+restaurants,skin care,1
+restaurants,social clubs,1
+restaurants,sports wear,1
+restaurants,supernatural readings,1
+restaurants,tabletop games,1
+restaurants,travel agents,1
+restaurants,tree services,1
+restaurants,ukrainian,1
+restaurants,vape shops,1
+restaurants,vitamins & supplements,1
+restaurants,walking tours,1
+restaurants,yelp events,1
+russian,specialty food,1
+russian,ukrainian,1
+salad,shopping,1
+salad,sushi bars,1
+salad,tacos,1
+salad,tobacco shops,1
+salad,turkish,1
+sandwiches,shaved snow,1
+sandwiches,smokehouse,1
+sandwiches,steakhouses,1
+sandwiches,tabletop games,1
+sandwiches,tacos,1
+sandwiches,tapas bars,1
+sandwiches,tea rooms,1
+sandwiches,tex-mex,1
+sandwiches,themed cafes,1
+sandwiches,turkish,1
+sandwiches,vape shops,1
+sandwiches,waffles,1
+sandwiches,whiskey bars,1
+sandwiches,wholesale stores,1
+sandwiches,yelp events,1
+seafood,shaved snow,1
+seafood,smokehouse,1
+seafood,street vendors,1
+seafood,swimming pools,1
+seafood,szechuan,1
+seafood,taiwanese,1
+seafood,teppanyaki,1
+seafood,tobacco shops,1
+seafood,vietnamese,1
+seafood,wholesale stores,1
+seafood,yelp events,1
+seafood markets,shopping,1
+seafood markets,smokehouse,1
+seafood markets,southern,1
+seafood markets,wholesale stores,1
+seafood markets,yelp events,1
+shared office spaces,shopping,1
+shared office spaces,shopping centers,1
+shaved ice,specialty food,1
+shaved ice,vegan,1
+shopping,social clubs,1
+shopping,specialty schools,1
+shopping,sports wear,1
+shopping,tabletop games,1
+shopping,tapas bars,1
+shopping,themed cafes,1
+shopping,tours,1
+shopping,travel agents,1
+shopping,tree services,1
+shopping,vape shops,1
+shopping,venues & event spaces,1
+shopping,vitamins & supplements,1
+shopping,waffles,1
+smokehouse,specialty food,1
+smokehouse,yelp events,1
+soul food,street vendors,1
+soul food,trinidadian,1
+soul food,venues & event spaces,1
+soul food,vietnamese,1
+soul food,waffles,1
+soup,southern,1
+soup,steakhouses,1
+soup,sushi bars,1
+soup,szechuan,1
+soup,tacos,1
+soup,tapas/small plates,1
+soup,thai,1
+soup,wraps,1
+southern,street vendors,1
+southern,tacos,1
+southern,taiwanese,1
+southern,tex-mex,1
+southern,thai,1
+southern,vegetarian,1
+southern,waffles,1
+southern,whiskey bars,1
+southern,wine tasting room,1
+southern,wineries,1
+southern,wraps,1
+spanish,steakhouses,1
+spanish,tacos,1
+spanish,tex-mex,1
+spanish,trinidadian,1
+spanish,vegetarian,1
+spanish,venezuelan,1
+spanish,venues & event spaces,1
+specialty food,steakhouses,1
+specialty food,street vendors,1
+specialty food,tacos,1
+specialty food,tapas/small plates,1
+specialty food,tex-mex,1
+specialty food,thai,1
+specialty food,trinidadian,1
+specialty food,ukrainian,1
+specialty food,vitamins & supplements,1
+specialty food,waffles,1
+specialty food,wholesale stores,1
+specialty food,wraps,1
+specialty food,yelp events,1
+specialty schools,travel services,1
+specialty schools,venues & event spaces,1
+specialty schools,wine & spirits,1
+specialty schools,wine bars,1
+specialty schools,wine tasting room,1
+specialty schools,wineries,1
+sporting goods,sports wear,1
+sports bars,tacos,1
+sports bars,tapas/small plates,1
+sports bars,tex-mex,1
+steakhouses,sushi bars,1
+steakhouses,tours,1
+steakhouses,venues & event spaces,1
+steakhouses,wine & spirits,1
+street vendors,tacos,1
+sushi bars,tapas/small plates,1
+sushi bars,vegan,1
+sushi bars,venues & event spaces,1
+sushi bars,vietnamese,1
+szechuan,taiwanese,1
+szechuan,vegan,1
+szechuan,vegetarian,1
+tabletop games,themed cafes,1
+tacos,tapas bars,1
+taiwanese,thai,1
+taiwanese,vegan,1
+taiwanese,wine bars,1
+tapas bars,vegan,1
+tapas bars,vegetarian,1
+tapas bars,vietnamese,1
+tapas/small plates,tea rooms,1
+tapas/small plates,thai,1
+tapas/small plates,tree services,1
+tapas/small plates,vegetarian,1
+tapas/small plates,wine tasting room,1
+tea rooms,vegan,1
+tex-mex,vegetarian,1
+tex-mex,vietnamese,1
+tex-mex,wine bars,1
+thai,wine & spirits,1
+tiki bars,venues & event spaces,1
+tobacco shops,wine & spirits,1
+tours,travel services,1
+tours,venues & event spaces,1
+tours,walking tours,1
+tours,wine bars,1
+travel agents,travel services,1
+travel services,venues & event spaces,1
+trinidadian,venezuelan,1
+turkish,vegetarian,1
+vape shops,wine & spirits,1
+vegan,venues & event spaces,1
+vegan,wine & spirits,1
+vegan,wineries,1
+vegetarian,wine bars,1
+vegetarian,wineries,1
+vegetarian,wraps,1
+venues & event spaces,wraps,1
+vietnamese,wine bars,1
+wine & spirits,wine tasting room,1
+wine & spirits,wineries,1

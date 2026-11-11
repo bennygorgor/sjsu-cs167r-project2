@@ -1,5 +1,8 @@
 data/raw/
 data/tmp/
+data/boundaries/place/
+data/boundaries/tract/
+data/boundaries/bg/
 .Rhistory
 .RData
 .Rproj.user/
